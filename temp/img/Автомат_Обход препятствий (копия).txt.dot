@@ -1,0 +1,12 @@
+digraph g {
+	rankdir = LR
+
+	"стоим" -> "захотели ехать" [label="потребность"]
+	"захотели ехать" -> "ехать прямо" [label="no_obstacles ( front )"]
+	"захотели ехать" -> "ехать направо" [label="no_obstacles ( right )"]
+	"захотели ехать" -> "ехать налево" [label="no_obstacles ( left )"]
+	"ехать прямо" -> "ехать направо" [label="no_obstacles ( right )"]
+	"ехать прямо" -> "ехать налево" [label="no_obstacles ( left )"]
+	"ехать направо" -> "ехать прямо" [label="no_obstacles ( front )"]
+	"ехать налево" -> "ехать прямо" [label="no_obstacles ( front )"]
+}
