@@ -1,0 +1,8 @@
+стоим; захотели ехать; потребность
+захотели ехать; ехать прямо; no_obstacles(front)
+захотели ехать; ехать направо; no_obstacles(right)
+захотели ехать; ехать налево; no_obstacles(left)
+ехать прямо; ехать направо; no_obstacles(right)
+ехать прямо; ехать налево; no_obstacles(left)
+ехать направо; ехать прямо; no_obstacles(front)
+ехать налево; ехать прямо;  no_obstacles(front)
