@@ -59,10 +59,11 @@ if __name__ == '__main__':
 	rimg = re.compile('\\[\\[(.*)\\]\\]')
 	rhh2 = re.compile('==(.*)==')
 	for x in main():
-		if '[[' in x:
-			a = re.match(rimg, x).groups()[0].strip()
-			print('<figure><img style="width: 100%%" src="%s" /><figcaption>%s</figcaption></figure>' % (a,a))
-		elif '==' in x:
-			print('<h2>%s</h2>' % re.match(rhh2, x).groups()[0].strip())
-		else:
-			print('<p>%s</p>' % x)
+		print(x)
+		# if '[[' in x:
+			# a = re.match(rimg, x).groups()[0].strip()
+			# print('<figure><img style="width: 100%%" src="%s" /><figcaption>%s</figcaption></figure>' % (a,a))
+		# elif '==' in x:
+			# print('<h2>%s</h2>' % re.match(rhh2, x).groups()[0].strip())
+		# else:
+			# print('<p>%s</p>' % x)
