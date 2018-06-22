@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-06-21T21:54:03.375500000</meta:creation-date><dc:date>2018-06-21T22:17:59.982100000</dc:date><meta:editing-duration>PT8M21S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/6.0.4.2$MacOSX_X86_64 LibreOffice_project/9b0d9b32d5dcda91d2f1a96dc04c645c450872bf</meta:generator><meta:document-statistic meta:character-count="788" meta:image-count="1" meta:non-whitespace-character-count="640" meta:object-count="0" meta:page-count="1" meta:paragraph-count="19" meta:table-count="1" meta:word-count="158"/></office:meta>
+ <office:meta><meta:creation-date>2018-06-21T21:54:03.375500000</meta:creation-date><dc:date>2018-06-21T22:17:59.982100000</dc:date><meta:editing-duration>PT8M21S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/6.0.4.2$MacOSX_X86_64 LibreOffice_project/9b0d9b32d5dcda91d2f1a96dc04c645c450872bf</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="1" meta:object-count="0" meta:page-count="1" meta:paragraph-count="19" meta:word-count="158" meta:character-count="788" meta:non-whitespace-character-count="640"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">183</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">21654</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">15861</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">30674</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">23026</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">4001</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10559</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">8795</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">183</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">21652</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">16043</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">30672</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">23024</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">85</config:config-item>
-     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">60</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">true</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -96,7 +95,7 @@
    <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
-   <config:config-item config:name="Rsid" config:type="int">1311959</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1195158</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
@@ -263,6 +262,18 @@
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
+  <style:style style:name="Таблица1" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Таблица1.A" style:family="table-column">
+   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="Таблица1.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Таблица1.A2" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0010ca6d"/>
   </style:style>
@@ -274,6 +285,9 @@
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0010ca6d"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
@@ -287,514 +301,512 @@
   <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
  </office:master-styles>
  <office:body>
-  <office:text text:use-soft-page-breaks="true">
+  <office:text>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="Standard">Разработка аппаратного и программного обеспечения системы управления исполнительными механизмами андроидного робота </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Предполагается: </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">а) разработка схемотехнических решений </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">б) разработка ПО микроконтроллера </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">в) разработка ПО бортовой ЭВМ робота. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Функции: </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">а) управление движением со стабилизацией по курсу, траектории, скорости. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">б) управление питанием бортового оборудования с контролем целостности цепей питания и управления </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">в) управление «жестикуляцией» робота. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Собранное шасси «робота-референта» (на базе Промобота). Возможность управления им с ПК, пульта. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">1 Определения и сокращения</text:h>
-   <text:p text:style-name="Standard">ИМ - исполнительные механизмы </text:p>
-   <text:p text:style-name="Standard">БИНС - бесплатформенная инерциальная навигационная система </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">2 Введение</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"><text:soft-page-break/>В наши дни тема взаимодействия робота и человека становится все более актуальной. Многие предприятия и заводы едва ли можно представить без использования робототехники. В настоящее время робототехника завоевывает все большие отрасли промышленности и все плотнее внедряется в различные сферы человеческой жизни. И если раньше роботы могли исполнять некоторые функции человека, заменяя его на заводах, где часто требуются однообразные действия при конвейерном производстве, при производстве разнообразных механизмов, то теперь наступили времена, когда роботы способны выполнять всё более сложные задачи. Развивается наука, развивается и техника, следуя за прогрессом. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Также в настоящее время роботы активно внедряются в образовательную и выставочную деятельность. Особое внимание привлекают роботы андроидного типа или антропоморфные роботы, имитирующие поведение человека. В связи с этим ставится вопрос об использовании роботов этого типа для привлечения внимания и выполнения задач их прямого назначения. Данное исследование посвящено разработке робота андроидного типа. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Важной частью современного робота становится его мобильность – способность к перемещению для выполнения необходимых манипуляций. Самые распространённые варианты шасси для наземных роботов – колесные, гусеничные и шагающие. Колесные шасси проще остальных по конструкции, но предназначены в основном для ровной поверхности, гусеничные сложнее в производстве, но имеют большее сцепление и легче проходят на пересеченной местности. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">... </text:p>
-   <text:p text:style-name="Standard">Подвижный робот имеет в своем составе две видеокамеры. С помощью сети Wi-Fi робот может взаимодействовать с другими устройствами и роботами. <text:soft-page-break/>Взаимодействие робота с компьютером оператора предоставляет ему дополнительные вычислительные ресурсы, базы данных и соединение с Интернетом. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">... </text:p>
-   <text:p text:style-name="Standard">Разработка новых интеллектуальных систем управления робототехническими системами является сегодня актуальной задачей. Одним из основных вопросов, возникающих при ее решении, является умение сочетать концепции, плодотворность которых прошла проверку временем, с новейшими методами программной и аппаратной реализации математических моделей. </text:p>
-   <text:p text:style-name="Standard">В статье предлагается описание проекта по созданию интеллектуальной системы управления роботизированным объектом (робот-промоутер), которая обладает рядом преимуществ, при этом не имеет существенных ограничений по области применения. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">... </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Актуальность </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Научная новизна </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Практическая значимость </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Цель </text:p>
-   <text:p text:style-name="Standard">Разработка аппаратного и программного обеспечения системы управления исполнительными механизмами андроидного робота </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Задачи </text:p>
-   <text:p text:style-name="Standard">- исследование предметной области; </text:p>
-   <text:p text:style-name="Standard">- разработка схемотехнических решений; </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>- разработка ПО микроконтроллера; </text:p>
-   <text:p text:style-name="Standard">- разработка ПО бортовой ЭВМ робота; </text:p>
-   <text:p text:style-name="Standard">- разработка системы управления движением со стабилизацией по курсу, траектории, скорости; </text:p>
-   <text:p text:style-name="Standard">- разработка системы управления «жестикуляцией» робота. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">=Исследовательская часть= </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">// тут НИР </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">3 Исследование существующих подходов к управлению ИМ робота</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Проектирование и разработка андроидных роботов широко практикуется в настоящее время. Обратимся к литературе на данную тематику. </text:p>
-   <text:p text:style-name="Standard">В статье /КХ/ представлена разработка аппаратно-программного комплекса для управления робототехнической платформой и программно- алгоритмического обеспечения для автономного движения и бесконтактного управления робототехнической платформой. </text:p>
-   <text:p text:style-name="Standard">В ходе тестирования представленной в этой статье платформы была решена задача обработки данных с камеры Kinect и распознавания жестов оператора, отлажена передача данных на микроконтроллер Arduino Mega2560, разработана программа управления по передвижению робототехнической платформы в необходимых направлениях, апробированы модули ввода данных с датчиков. </text:p>
-   <text:p text:style-name="Standard">Экспериментально подтверждено, что робототехническая платформа выполняет движения в необходимых направлениях с учетом локальных препятствий в режиме реального времени, на основе данных, получаемых с датчиков. </text:p>
-   <text:p text:style-name="Standard">В статье /МСЛ/ описано создание кисти-манипулятора для андроидного робота. В робототехнике широкое распространение получили клешни для захвата различных предметов. Клешня состоит из двух направляющих, при сближе<text:soft-page-break/>нии которых и происходит удержание предмета. Движения направляющих происходит с помощью сервоприводов. </text:p>
-   <text:p text:style-name="Standard">На сегодняшний день большое распространение получили роботы-андроиды. Но практическое применение может иметь и рука (кисть руки) робота отдельно - в качестве протеза для инвалидов. Кисть используют в медицинской технике, в частности области медицинских средств реабилитации двигательного аппарата человека. Цель - повышение степени приспосабливания при захвате предметов. Пальца кисти андроида могут быть использованы для жестикуляции в развлекательных целях и для рекламы. </text:p>
-   <text:p text:style-name="Standard">В статье /ККЮ/ рассмотрены перспективы развития мобильных робототехнических комплексов. Автор описывает что в настоящее время в мире наблюдается широкое распространение роботизированных систем и робототехники в целом. Во многих странах, в том числе и в Казахстане, робототехника является уже отдельной дисциплиной изучаемой в учебных заведениях, и не только в профильных вузах, но и в школах, и, соот- ветственно, в педагогических вузах. </text:p>
-   <text:p text:style-name="Standard">Востребованность специалистов, обладающих знаниями в этой области,ежегодно растет. Это обусловлено многими объективными факторами, решающим из которых, конечно же, является бурное развитие робототехники. </text:p>
-   <text:p text:style-name="Standard">Сферы применения роботов и робототехники различны: образование, ме- дицина, строительство, геодезия, метеорология и т.д. </text:p>
-   <text:p text:style-name="Standard">Особое значение, так же занимает развитие так называемой, автономной и мобильной робототехники. В силу того, что робототехника зачастую применяется для выполнения работ в недоступных человеку местах, то именно мобильная робототехника часто является приоритетом. Однако, не только в перечисленных выше случаях требуется мобильная робототехника, определенной ветвью ее развития является автономная робототехника, подразумевающая практически полное исключение вмешательства человеческой деятельности для выполнения каких-либо задач. Иными словами, такая робототехника является наиболее перспективной и интересной в плане разработки. Для осуществления ав<text:soft-page-break/>тономности, в мобильной робототехнике, все чаще применяется искусственный интеллект, а точнее его элементы. С развитием облачных технологий, стоит обратить внимание, на интеграцию и объединение различных по мощности вычислительных мощностей и сервисов искусственного интеллекта, для полномасштабной реализации полной мобилизации и автономности робототехники. </text:p>
-   <text:p text:style-name="Standard">В статье /ШВК/ рассмотрена еще одна интересующая нас в рамках НИР область - системы технического зрения. Применение систем технического зрения (СТЗ) позволяет выполнять обнаружение и распознавание объектов окружающей среды, производить анализ ряда их характеристик. Поэтому включение СТЗ в состав робототехнических систем стало признанной тенденцией их развития. </text:p>
-   <text:p text:style-name="Standard">СТЗ в составе робототехнической системы могут быть использованы для решения следую- щих задач: </text:p>
-   <text:p text:style-name="Standard">обнаружение объектов; </text:p>
-   <text:p text:style-name="Standard">определение формы объектов; </text:p>
-   <text:p text:style-name="Standard">распознавание и классификация объектов; выделение изображений; </text:p>
-   <text:p text:style-name="Standard">распознавание и классификация изображений. Указанные задачи в той или иной степени </text:p>
-   <text:p text:style-name="Standard">могут быть решены с использованием одной СТЗ или совокупности СТЗ, в т. ч., основанных на различных физических принципах. Для решения задачи планирования траектории движения наи- более часто применяются СТЗ, построенные по принципу восприятия отражённого от объектов сигнала (инфракрасного или ультразвукового спектра), т. е., СТЗ радарного типа, сканирующие окружающее пространство. Для распознавания изображений необходимы СТЗ, позволяющие получить растровое представление сцены. </text:p>
-   <text:p text:style-name="Standard">Применение таких СТЗ как видеокамеры, при соответствующей обработке данных позволяет решить как задачу планирования траектории, так и задачу распознавания, однако обработка растровых изображений требует больших вычислительных ресурсов и применения мощных вычис- лителей или специализированных сигнальных процессоров. Одной из основных проблем обра<text:soft-page-break/>ботки и анализа изображений является неопределённость и неоднозначность их характеристик в связи с непостоянством освещённости, изменением цветовых характеристик и расположения объектов на фоне; кроме того, в ряде случаев применение аналитических методов обработки изображений во встраиваемых системах затруд- нено или невозможно по причине сложности используемого математического аппарата и, следовательно, ресурсоёмкости этих методов, из-за чего представляет интерес применение в таких задачах методов и средств интеллектуальной обработки данных (в частности, аппарата нечётких вычислений), эффективно решающих эти задачи при существенных ограничениях на вычислительные ресурсы. Отметим, что методы нечёткой обработки позволяют оперировать такими есте- ственными параметрами описания изображений, как яркость, однородность, близость участков и др., а также обладают простотой модификации, предсказуемостью и объяснимостью поведения. </text:p>
-   <text:p text:style-name="Standard">Обобщенная структура использования средств нечётких вычислений в задачах обработки изо- бражения показана на рис. 1. </text:p>
-   <text:p text:style-name="Standard">Существующие СТЗ коммерческого назначения и средства их разработки являются закрытыми и непригодными для исследований принципов построения СТЗ, создания новых методов и ал- горитмов их функционирования. Таким образом, актуальна задача разработки открытых средств проектирования встраиваемых СТЗ, позволяю- щих выполнять научные исследования и проводить подготовку специалистов в области автоматики и вычислительной техники. </text:p>
-   <text:p text:style-name="Standard">В свою очередь, в статье /СЗ/ рассмотрена система управления движением автономной колесной платформы. В статье описан состав аппаратной и программной частей платформы и даны основные принципы проектирования таких устройств. Рассмотрим состав системы управления движением платформы подробнее: выбор направления движения аппарата осуществляет связка из нейронной сети (определяющей, в каком направлении находится маркер, обозначающий конечную точку маршрута) и системы нечеткой логики, выбирающей направление движения аппарата на основе данных нейронной сети и датчиков расстояния до препятствий. Выбранное направление движения преобра<text:soft-page-break/>зуется в команды и передается в систему управления движением. Система включает в себя микроконтроллер ArduinoDuemilanove на основе ATMega 328. Для управления работой двигателей предназначен силовой модуль расширения Ardumoto L298P MotorDriverShield. На модуле расширения для дополнительного прототипирования установлен модуль датчиков, оборудованный магнетометром и акселерометром. Кроме того, именно к этому модулю подключены ультразвуковые датчики расстояния, оценивающие расстояние до препятствий перед платформой слева и справа по направлению движения. По центру платформы в передней части расположен инфракрасный датчик препятствий, выдающий сигнал в случае, если препятствие находится прямо перед платформой на расстоянии 800 мм и менее. </text:p>
-   <text:p text:style-name="Standard">Программное обеспечение микроконтроллера. </text:p>
-   <text:p text:style-name="Standard">Движением аппарата управляет микроконтроллер, микропрограмма которого включает в себя блок инициализации, в котором производится настройка датчиков, а также основной цикл, в котором последовательно производится опрос датчиков аппарата, определение возможности движения в данный момент, остановка движения в случае наличия препятствия в непосредственной близости, передача телеметрической информации в бортовой компьютер, а также </text:p>
-   <text:p text:style-name="Standard">прием и анализ команд, поступивших от бортового компьютера. </text:p>
-   <text:p text:style-name="Standard">Одним из важнейших требований к программному обеспечению микроконтроллера являлась высокая надежность работы и устойчивость к возникновению прерываний и сбоев в канале передаче данных между бортовым компьютером и микроконтроллером. Исходя из этих требований, для реализации программного обеспечения микроконтроллера была выбрана концепция автоматного программирования. Часть программного кода, ответственная за командноинформационный обмен с бортовым компьютером, представляет собой конечный частично определенный детерминированный автомат-распознаватель. Автомат содержит 13 состояний и 26 переходов между ними. Прием числовых данных реализован отдельной процедурой, причем возникновение ошибки в ходе прие<text:soft-page-break/>ма информации немедленно переводит автомат в исходное состояние, что обеспечивает высокую устойчивость системы к ошибкам и сбоям. Программное обеспечение на стороне бортового компьютера, принимающее телеметрические данные от микроконтроллера, реализовано по такому же принципу. Таким образом, сбой работы микроконтроллера так же не приводит к прекращению обменом информацией между бортовым компьютером и управляющим микроконтроллером или зависанию программы. Для возобновления нормального функционирования системы достаточно перезагрузить микроконтроллер либо бортовой компьютер, других специальных шагов предпринимать не требуется. </text:p>
-   <text:p text:style-name="Standard">Выводы. Описанная выше система является частью мобильной платформы и была использована для обучения студентов по дисциплинам «Основы обработки изображений», «Нейронные сети» и «Нечеткая логика». Использование показало высокую эффективность предложенной системы, отсутствие сбоев во время работы и заинтересованность студентов в процессе обучения. В дальнейшем предполагается участие студентов в разработке программного обеспечения микроконтроллера, также возможна интеграция в состав системы управления, основанной на ROS (RoboticOperatingSystem). </text:p>
-   <text:p text:style-name="Standard">Данная система может быть использована для проведения исследований и опытно-конструкторских работ в области робототехники, разработки автономных исследовательских систем и систем автоматического управления, а также для проведения практических занятий со студентами, бакалаврами и магистрантами соответствующих направлений. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">... </text:p>
-   <text:p text:style-name="Standard">Конечный автомат. Несмотря на стремительное развитие информационных технологий, надежные традиционные методы и инструменты прикладного программирования не теряют свою актуальность. </text:p>
-   <text:p text:style-name="Standard">Одним из таких инструментов является основной программный компонент системы, разработанной в рамках данного проекта – конечный автомат (КА). Область применения КА включает в себя все сферы информационного <text:soft-page-break/>пространства – от систем синтаксического анализа до больших интеллектуальных систем управления промышленным оборудованием и роботизированными объектами. </text:p>
-   <text:p text:style-name="Standard">В данном проекте КА представляет собой поведение объекта в зависимости от той или иной ситуации (состояния). </text:p>
-   <text:p text:style-name="Standard">Схема конечного автомата (рис. 2) представляет собой совокупность возможных действий робота с описанием того или иного состояния. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">// вставить рисунок </text:p>
-   <text:p text:style-name="Standard">Рисунок 2 </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">4 Исследование шасси &quot;Промобота&quot;</text:h>
-   <text:p text:style-name="Standard">В основе робота было использовано уже имеющееся шасси, представляющее из себя набор исполнительных механизмов и датчиков перечень которых приведен в таблице /таблица промобот/ </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">/таблица промобот/ </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">№ п/п ; Наименование прибора ; Назначение прибора ; Характеристики ; </text:p>
-   <text:p text:style-name="Standard">1 ; Привод правого колеса ; Перемещение робота ; 12V 10A DC 1шт.; </text:p>
-   <text:p text:style-name="Standard">2 ; Привод левого колеса ; Перемещение робота ; 12V 10A DC 1шт.; </text:p>
-   <text:p text:style-name="Standard">3 ; Привод правой руки ; &quot;Жестикуляция&quot; робота ; 12V 10A DC 1шт.; </text:p>
-   <text:p text:style-name="Standard">4 ; Привод левой руки ; &quot;Жестикуляция&quot; робота ; 12V 10A DC 1шт.; </text:p>
-   <text:p text:style-name="Standard">5 ; Привод поворота головы ; &quot;Жестикуляция&quot; робота ; Серво 5V 2А PWM 1шт.; </text:p>
-   <text:p text:style-name="Standard">6 ; Ультразвуковые датчики расстояния ; Обнаружение препятствий ; 10 - 200см 8шт.; </text:p>
-   <text:p text:style-name="Standard">7 ; Инфракрасные датчики расстояния ; Обнаружение препятствий ; неисправны 6шт.; </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>8 ; Модуль датчика напряжения питания ; Контроль напряжения бортовой сети ; Аналоговый; </text:p>
-   <text:p text:style-name="Standard">9 ; Аккустический усилитель ; Усиление аудио частот ; Аналоговый; </text:p>
-   <text:p text:style-name="Standard">10 ; Динамики ; Воспроизведение звука ; 4 Ом; </text:p>
-   <text:p text:style-name="Standard">11 ; WiFi-адаптер ; Связь с интернетом ; 2.4Ггц; </text:p>
-   <text:p text:style-name="Standard">12 ; Arduino Uno R3 ; Управление ИМ ; Atmega 328 P; </text:p>
-   <text:p text:style-name="Standard">13 ; Драйверы управления двигателями постоянного тока; Управление двигателями ; 12V, 20А, 2-канальный, цифровое управление, 2шт.; </text:p>
-   <text:p text:style-name="Standard">14 ; Материнская плата ; Организация вычислительного процесса ; Core i7, SSD; </text:p>
-   <text:p text:style-name="Standard">15 ; LED-матрица ; &quot;глаза&quot; робота ; RGB, 5V, цифровое управление; </text:p>
-   <text:p text:style-name="Standard">16 ; Блок питания ; Питание ; 12V 20А; </text:p>
-   <text:p text:style-name="Standard">17 ; Камера ; Обнаружение человека ; Веб, 640x480; </text:p>
-   <text:p text:style-name="Standard">18 ; Концевые выключатели рук ; Определение границ перемещения рук ; 2 контакта; </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Рассмотрим подробнее вышеприведенную таблицу. Все устройства работают под управлением бортовой ЭВМ (строки 14, 16). Взаимодействие компьютера и ИМ осуществляется посредством микроконтроллера Arduino (строка 12). Управление двигателями (строки 1-4) происходит посредством драйверов управления двигателями (строка 13), и инерфейсов связи между ними. Для связи с сетью используется WiFi адаптер(строка 11). Звуки воспроизводятся по команде с ЭВМ с помощью динамиков и усилителя (строки 9, 10). Для ориентации в пространстве используются датчики расстояния (строки 6, 7). Для контроля напряжения бортовой сети используется вольтметр (строка 8). Для имитирования эмоций используются LED-матрицы (строка 15). Для определения границ перемещения рук используются концевые выключатели (строка 18). Для обнаружения людей используется веб-камера (строка 17). И наконец, для поворота головы используется серво-мотор (строка 5). </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"><text:soft-page-break/>Требования к шасси робота сформулированы в таблице /таблица требования/. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Для удовлетворения требований, предъявляемых к роботу, в конструкции отсутствуют следующие элементы: </text:p>
-   <text:p text:style-name="Standard">1. БИНС. Необходима для стабилизации курса робота. </text:p>
-   <text:p text:style-name="Standard">2. Серво-привод наклона головы. Нужен для расширения возможностей эмоционального взаимодействия с человеком. </text:p>
-   <text:p text:style-name="Standard">3. Серво-приводы кистей рук. Также необходимы для расширения возможностей эмоционального взаимодействия с человеком. </text:p>
-   <text:p text:style-name="Standard">4. Дисплей. Служит также для расширения возможностей эмоционального взаимодействия с человеком. </text:p>
-   <text:p text:style-name="Standard">5. Датчики расстояния. Должны быть заменены для соответствия заявленным требованиям по ориентированию робота. </text:p>
-   <text:p text:style-name="Standard">6. Реле. Должны быть использованы для корректного управления цепями нагрузки. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Анализ требований показывает, что имеющиееся аппаратное обеспечение нуждается в доработке. Для выполнения реинжинирига робота необходимо произвести анализ доступных на рынке модулей и компонентов, которые могут быть использованы для сборки робота. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">/таблица требования/ </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">5 Исследование существующего аппаратного обеспечения</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">6 Обзор достоинств и недостатков существующих решений</text:h>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">7 Конструкторская часть</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>7.1 Проектирование схемотехнических решений</text:h>
-   <text:p text:style-name="Standard">//TODO: стырить у Оли! </text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">7.2 Проектирование ПО микроконтроллера</text:h>
-   <text:p text:style-name="Standard">//TODO: стырить Оле у меня! </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Алгоритмы работы. </text:p>
-   <text:p text:style-name="Standard">// TODO: вставить алгоритмы </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.2.1 Обработка датчиков расстояния</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Ветка ожидание: </text:p>
-   <text:p text:style-name="Standard">Блок 1: проверка состояния датчика расстояния. </text:p>
-   <text:p text:style-name="Standard">Входы: состояние датчика </text:p>
-   <text:p text:style-name="Standard">Выходы: направление дальнейшей работы (ожидание, триггер, эхо). </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 2: проверка времени ожидания. </text:p>
-   <text:p text:style-name="Standard">Входы: время ожидания t (mс). </text:p>
-   <text:p text:style-name="Standard">Выходы: если t &gt; 1000mc, то истина, иначе ложь </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 3: состояние датчика := триггер </text:p>
-   <text:p text:style-name="Standard">Входы: переменная состояния </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние датчика </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Ветка триггер: </text:p>
-   <text:p text:style-name="Standard">Блок 4: проверка состояния триггера </text:p>
-   <text:p text:style-name="Standard">Входы: состояние датчика </text:p>
-   <text:p text:style-name="Standard">Выходы: фронт вниз; фронт вверх; ожидание; </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 5: проверка времени импульса </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>Входы: фронт вниз </text:p>
-   <text:p text:style-name="Standard">Выходы: если время импульса больше 10 мс, то истина, иначе - ложь </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 6: выставить низкий уровень на выходе триггера </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние выхода триггера </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 7: состояние триггера := ожидание </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние триггера </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 8: состояние := эхо </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние датчика </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 9: выставить высокий уровень на выходе триггера </text:p>
-   <text:p text:style-name="Standard">Входы: фронт вверх </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние выхода триггера </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 10: состояние триггера := фронт вниз </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние триггера </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 11: состояние триггера := фронт вверх </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние триггера </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Ветка 3: </text:p>
-   <text:p text:style-name="Standard">Блок 12: проверка состояния эхо </text:p>
-   <text:p text:style-name="Standard">Входы: состояние датчика </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>Выходы: фронт вверх; фронт вниз; ожидание; </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 13: проверить уровень на входе эхо по фронту вверх </text:p>
-   <text:p text:style-name="Standard">Входы: уровень </text:p>
-   <text:p text:style-name="Standard">Выходы: если низкий, то истина, иначе - ложь </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 14: проверить уровень на входе эхо по фронту вниз </text:p>
-   <text:p text:style-name="Standard">Входы: уровень </text:p>
-   <text:p text:style-name="Standard">Выходы: если низкий, то истина, иначе - ложь </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 15: вычислить расстояние </text:p>
-   <text:p text:style-name="Standard">Входы: длительность импульса </text:p>
-   <text:p text:style-name="Standard">Выходы: расстояние </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 16: состояние эхо := фронт вниз </text:p>
-   <text:p text:style-name="Standard">Входы: состояние эхо </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние эхо </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 17: запомнить момент прихода импульса </text:p>
-   <text:p text:style-name="Standard">Входы: импульс </text:p>
-   <text:p text:style-name="Standard">Выходы: время прихода импульса </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 18: состояние эхо := фронт вверх </text:p>
-   <text:p text:style-name="Standard">Входы: состояние эхо </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние эхо </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.2.2 Основной алгоритм программы микроконтроллера</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 1: инициализация устройств и подсистем </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>Выходы: состояние портов ввода/вывода, вектора прерываний </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 2: основной управляющий алгоритм </text:p>
-   <text:p text:style-name="Standard">Входы: состояние датчиков, команды о бортовой эвм </text:p>
-   <text:p text:style-name="Standard">Выходы: управляющее воздействие, ответы о выполнении команд </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.2.3 Инициализция устройств</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 1:Инициализация последовательного порта </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние последовательного порта (RX/TX), прерывания </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 2: Инициализация реле компьютера </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояния пинов реле </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 3: Инициализация светотехники </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние пинов реле светотехники </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 4: Инициализация шины I2C </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние шины I2C </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 5: Инициализация сети 5V </text:p>
-   <text:p text:style-name="Standard">Входы: </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние пинов реле цепи 5V </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 6: Инициализация реле моторов и их включение </text:p>
-   <text:p text:style-name="Standard">Входы: </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>Выходы: состояние пинов драйверов моторов </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 7: Инициализация таймеров </text:p>
-   <text:p text:style-name="Standard">Входы: </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние регистров таймеров </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 8: Инициализация портов </text:p>
-   <text:p text:style-name="Standard">Входы: </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние портов </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 9: Инициализация АЦП </text:p>
-   <text:p text:style-name="Standard">Входы: </text:p>
-   <text:p text:style-name="Standard">Выходы: состояние регистров АЦП </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.2.4 Обработчик прерывания по первому таймеру</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 1: Сброс счетчика регистра прерываний </text:p>
-   <text:p text:style-name="Standard">Входы: Счетчик </text:p>
-   <text:p text:style-name="Standard">Выходы: Счетчик = 0 </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 2: Обработка команд управления компьютером </text:p>
-   <text:p text:style-name="Standard">Входы: Команда </text:p>
-   <text:p text:style-name="Standard">Выходы: Результат выполнения </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 3: Обработка команд управления светотехникой </text:p>
-   <text:p text:style-name="Standard">Входы: Команда </text:p>
-   <text:p text:style-name="Standard">Выходы: Результат выполнения </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 4: Обработка команд управления руками </text:p>
-   <text:p text:style-name="Standard">Входы: Команда </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>Выходы: Результат выполнения </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 5: Обработка команд управления ногами </text:p>
-   <text:p text:style-name="Standard">Входы: Команда </text:p>
-   <text:p text:style-name="Standard">Выходы: Результат выполнения </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.2.5 Обработчик прерывания по второму таймеру</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 1: Сброс счетчика регистра прерываний </text:p>
-   <text:p text:style-name="Standard">Входы: Счетчик </text:p>
-   <text:p text:style-name="Standard">Выходы: Счетчик = 0 </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 2: Счетчик импульсов датчиков расстояния += 1 </text:p>
-   <text:p text:style-name="Standard">Входы: Счетчик </text:p>
-   <text:p text:style-name="Standard">Выходы: Значение счетчика, увеличенное на единицу </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 3: Обработка команд управления датчиками расстояния </text:p>
-   <text:p text:style-name="Standard">Входы: Команда </text:p>
-   <text:p text:style-name="Standard">Выходы: Результат выполнения </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.2.6 Инициализация гироскопа (рассчет дрейфа)</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 1: Инициализация </text:p>
-   <text:p text:style-name="Standard">Входы: Переменная суммы значений </text:p>
-   <text:p text:style-name="Standard">Выходы: Переменная суммы значений </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 2: первичное измерение вращательного ускорения по оси z </text:p>
-   <text:p text:style-name="Standard">Входы: переменная для хранения </text:p>
-   <text:p text:style-name="Standard">Выходы: измеренное значение </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"><text:soft-page-break/>Блок 3: инициализация цикла </text:p>
-   <text:p text:style-name="Standard">Входы: переменная счетчик цикла </text:p>
-   <text:p text:style-name="Standard">Выходы: - </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 4: задержка 0.3 сек </text:p>
-   <text:p text:style-name="Standard">Входы: </text:p>
-   <text:p text:style-name="Standard">Выходы: </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 5: новое измерение ускорения по z </text:p>
-   <text:p text:style-name="Standard">Входы: переменная для хранения значения </text:p>
-   <text:p text:style-name="Standard">Выходы: значение </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 6: подсчет суммы измерений </text:p>
-   <text:p text:style-name="Standard">Входы: переменная суммы </text:p>
-   <text:p text:style-name="Standard">Выходы: значение суммы </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 7: конец цикла </text:p>
-   <text:p text:style-name="Standard">Входы: - </text:p>
-   <text:p text:style-name="Standard">Выходы: переменная счетчик </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Блок 8: подсчет дрейфа </text:p>
-   <text:p text:style-name="Standard">Входы: переменная для хранения значения дрейфа </text:p>
-   <text:p text:style-name="Standard">Выходы: значение дрейфа </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">7.3 Проектирование ПО бортовой ЭВМ робота</text:h>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Генератор бреда. </text:p>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>7.4 Проектирование системы управления движением</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.4.1 Стабилизация курса</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.4.2 Стабилизация траектории</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">7.4.3 Стабилизация скорости</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">7.5 Проектирование системы управления «жестикуляцией» робота</text:h>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">8 Технологическая часть</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">8.1 Разработка схемотехнических решений</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">8.2 Разработка ПО микроконтроллера</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">8.3 Разработка ПО бортовой ЭВМ робота</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">8.4 Разработка системы управления движением</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">8.4.1 Стабилизация курса</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">8.4.2 Стабилизация траектории</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">8.4.3 Стабилизация скорости</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">8.5 Разработка системы управления «жестикуляцией» робота</text:h>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">9 Информационная безопасность</text:h>
-   <text:p text:style-name="Standard">Определения и сокращения </text:p>
-   <text:p text:style-name="Standard">АС - автоматизированные системы </text:p>
-   <text:p text:style-name="Standard">НСД - несанкционированный доступ </text:p>
-   <text:p text:style-name="Standard">РД - руководящий документ </text:p>
-   <text:p text:style-name="Standard">СЗИ - система защиты информации </text:p>
-   <text:p text:style-name="Standard">СЗИ НСД - система защиты информации от несанкционированного доступа </text:p>
-   <text:p text:style-name="Standard">1. Определение класса АС </text:p>
-   <text:p text:style-name="Standard">Определим класс нашей системы, основываясь на руководящем документе &quot;Классификация АС и требования по защите от несанкционированного доступа к информации&quot;. </text:p>
-   <text:p text:style-name="Standard">Предлагаемая система предназначена для общения с людьми и привлечения внимания к Университету. </text:p>
-   <text:p text:style-name="Standard">Система имеет следующие возможности: </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>передвижение в автоматическом и/или дистанционно-управляемом режимах с требуемой скоростью и точностью по заданному маршруту, </text:p>
-   <text:p text:style-name="Standard">имитирование человеческих эмоций </text:p>
-   <text:p text:style-name="Standard">реагирование на раздражители </text:p>
-   <text:p text:style-name="Standard">поддержание разговора - распознавать речь и отвечать на вопросы. </text:p>
-   <text:p text:style-name="Standard">1.1 Анализ исходных данных </text:p>
-   <text:p text:style-name="Standard">Таблица 1 перечень защищаемых информационных ресурсов АС и их уровень конфиденциальности </text:p>
-   <text:p text:style-name="Standard">1. модель распознавания речи; секретная информация </text:p>
-   <text:p text:style-name="Standard">2. модель синтеза речи; секретная информация </text:p>
-   <text:p text:style-name="Standard">3. прошивка контроллера; внутренняя информация </text:p>
-   <text:p text:style-name="Standard">4. настройки операционной системы; внутренняя информация </text:p>
-   <text:p text:style-name="Standard">5. файлы исходного кода приложения для управления исполнительными механизмами; внутренняя информация </text:p>
-   <text:p text:style-name="Standard">6. файлы исходного кода приложения для управления эмоциями и рефлексами; конфиденциальная информация </text:p>
-   <text:p text:style-name="Standard">7. база знаний; секретная информация </text:p>
-   <text:p text:style-name="Standard">8. база данных эмоций и рефлексов; секретная информация </text:p>
-   <text:p text:style-name="Standard">9. база данных голосвых записей для воспроизведения речи; конфиденциальная информация </text:p>
-   <text:p text:style-name="Standard">10. интерфейс пользователя; открытая информация </text:p>
-   <text:p text:style-name="Standard">11. речевое API; открытая информация </text:p>
-   <text:p text:style-name="Standard">Таблица 2 перечень лиц, имеющих доступ к штатным средствам АС, с указанием их уровня полномочий </text:p>
-   <text:p text:style-name="Standard">1. Администратор; доступ к секретной информации; </text:p>
-   <text:p text:style-name="Standard">2. Разработчик; доступ к секретной информации; </text:p>
-   <text:p text:style-name="Standard">3. Тестировщик; доступ к внутренней информации; </text:p>
-   <text:p text:style-name="Standard">4. Пользователь-собеседник; доступ к открытой информации. </text:p>
-   <text:p text:style-name="Standard">Таблица 3 матрица доступа или полномочий субъектов доступа по отношению к защищаемым информационным ресурсам АС </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>; 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10; 11 </text:p>
-   <text:p text:style-name="Standard">1. Администратор ; + ; + ; + ; + ; + ; + ; + ; + ; + ; + ; + </text:p>
-   <text:p text:style-name="Standard">2. Разработчик ; + ; + ; + ; + ; + ; + ; + ; + ; + ; + ; + </text:p>
-   <text:p text:style-name="Standard">3. Тестировщик ; - ; - ; + ; + ; + ; - ; - ; - ; - ; + ; + </text:p>
-   <text:p text:style-name="Standard">4. Cобеседник ; - ; - ; - ; - ; - ; - ; - ; - ; - ; + ; + </text:p>
-   <text:p text:style-name="Standard">Режим обработки данных в АС </text:p>
-   <text:p text:style-name="Standard">Работы с системой могут производиться одновременно только одним человеком, следовательно режим обработки данных является индивидуальным. </text:p>
-   <text:p text:style-name="Standard">1.2 выявление основных признаков АС, необходимых для классификации </text:p>
-   <text:p text:style-name="Standard">наличие в АС информации различного уровня конфиденциальности; + </text:p>
-   <text:p text:style-name="Standard">уровень полномочий субъектов доступа АС на доступ к конфиденциальной информации; + </text:p>
-   <text:p text:style-name="Standard">режим обработки данных в АС; индивидуальный </text:p>
-   <text:p text:style-name="Standard">1.3 сравнение выявленных признаков АС с классифицируемыми </text:p>
-   <text:p text:style-name="Standard">Устанавливается девять классов защищенности АС от НСД к информации. </text:p>
-   <text:p text:style-name="Standard">Каждый класс характеризуется определенной минимальной </text:p>
-   <text:p text:style-name="Standard">совокупностью требований по защите. </text:p>
-   <text:p text:style-name="Standard">Классы подразделяются на три группы, отличающиеся особенностями </text:p>
-   <text:p text:style-name="Standard">обработки информации в АС. </text:p>
-   <text:p text:style-name="Standard">В пределах каждой группы соблюдается иерархия требований по защите в </text:p>
-   <text:p text:style-name="Standard">зависимости от ценности (конфиденциальности) информации и, </text:p>
-   <text:p text:style-name="Standard">следовательно, иерархия классов защищенности АС. </text:p>
-   <text:p text:style-name="Standard">Третья группа включает АС, в которых работает один пользователь, </text:p>
-   <text:p text:style-name="Standard">допущенный ко всей информации АС, размещенной на носителях одного </text:p>
-   <text:p text:style-name="Standard">уровня конфиденциальности. Группа содержит два класса - 3Б и 3А. </text:p>
-   <text:p text:style-name="Standard">Вторая группа включает АС, в которых пользователи имеют одинаковые </text:p>
-   <text:p text:style-name="Standard">права доступа (полномочия) ко всей информации АС, обрабатываемой и </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>(или) хранимой на носителях различного уровня конфиденциальности. </text:p>
-   <text:p text:style-name="Standard">Группа содержит два класса - 2Б и 2А. </text:p>
-   <text:p text:style-name="Standard">Первая группа включает многопользовательские АС, в которых </text:p>
-   <text:p text:style-name="Standard">одновременно обрабатывается и (или) хранится информация разных уровней </text:p>
-   <text:p text:style-name="Standard">конфиденциальности. Не все пользователи имеют право доступа ко всей </text:p>
-   <text:p text:style-name="Standard">информации АС. Группа содержит пять классов - 1Д, 1Г, 1В, 1Б и 1А. </text:p>
-   <text:p text:style-name="Standard">1.4 присвоение АС соответствующего класса защиты информации от НСД </text:p>
-   <text:p text:style-name="Standard">На основе анализа исходных данных, можно сделать вывод, что разрабатываемая система относится к первой группе АС, и классу защищенноcти 1Д. </text:p>
-   <text:p text:style-name="Standard">1.5 Требования к подсистемам класса защищенности 1Д </text:p>
-   <text:p text:style-name="Standard">В общем случае, комплекс программно-технических средств и </text:p>
-   <text:p text:style-name="Standard">организационных (процедурных) решений по защите информации от НСД </text:p>
-   <text:p text:style-name="Standard">реализуется в рамках системы защиты информации от НСД (СЗИ НСД), </text:p>
-   <text:p text:style-name="Standard">условно состоящей из следующих четырех подсистем: </text:p>
-   <text:p text:style-name="Standard">- управления доступом; </text:p>
-   <text:p text:style-name="Standard">- регистрации и учета; </text:p>
-   <text:p text:style-name="Standard">- криптографической; </text:p>
-   <text:p text:style-name="Standard">- обеспечения целостности. </text:p>
-   <text:p text:style-name="Standard">Технические характеристики робота: </text:p>
-   <text:p text:style-name="Standard">- Микроконтроллер (Arduino 2560) </text:p>
-   <text:p text:style-name="Standard">- Платы расширения (модули реле, Н-моста, БИНС, серво-приводы, электродвигатели, провода, ультразвуковые датчики расстояния, камеры, и т.д.) </text:p>
-   <text:p text:style-name="Standard">- Бортовая ЭВМ, ОС - Debian 8 </text:p>
-   <text:p text:style-name="Standard">Требования к классу защищенности 1Д: </text:p>
-   <text:p text:style-name="Standard">Подсистема управления доступом: </text:p>
-   <text:p text:style-name="Standard">Идентификация и проверка подлинности таких субъектов как: администратор </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>ктото еще осуществляется средствами операционной систмы. Доступ возможен </text:p>
-   <text:p text:style-name="Standard">а) через ssh по сети </text:p>
-   <text:p text:style-name="Standard">Ssh - сетевой протокол прикладного уровня, позволяющий производить удалённое управление операционной системой и туннелирование TCP-соединений (например, для передачи файлов). Схож по функциональности с протоколами Telnet и rlogin, но, в отличие от них, шифрует весь трафик, включая и передаваемые пароли. SSH допускает выбор различных алгоритмов шифрования. SSH-клиенты и SSH-серверы доступны для большинства сетевых операционных систем. </text:p>
-   <text:p text:style-name="Standard">б) локально, через gdm </text:p>
-   <text:p text:style-name="Standard">Gdm - графический дисплейный менеджер для X Window System. Эта программа регистрирует пользователей в операционной системе, предлагая им ввести их логин и пароль. GDM также позволяет выбирать графическую среду (сеанс) и локаль (набор языковых и региональных настроек).Экран приветствия GDM может иметь разный вид в зависимости от применённой к нему темы. </text:p>
-   <text:p text:style-name="Standard">Идентификация и проверка подлинности пользователей-собеседников осущестляется </text:p>
-   <text:p text:style-name="Standard">визуально при помощи системы распознавания лиц и голоса. </text:p>
-   <text:p text:style-name="Standard">Подсистема регистрации и учета: </text:p>
-   <text:p text:style-name="Standard">Регистрация факта входа всех пользователей, кроме собеседников осущестляется средствами </text:p>
-   <text:p text:style-name="Standard">ОС в файле /var/log/auth.log, а остальных - в журналах программы. </text:p>
-   <text:p text:style-name="Standard">Регистрация выхода из системы или останова не проводится в моменты аппаратурного отключения </text:p>
-   <text:p text:style-name="Standard">АС. В параметрах регистрации указываются: </text:p>
-   <text:p text:style-name="Standard">- дата и время входа (выхода) субъекта доступа в систему (из системы) или </text:p>
-   <text:p text:style-name="Standard">загрузки (останова) системы; </text:p>
-   <text:p text:style-name="Standard">- результат попытки входа: успешная или неуспешная - </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>несанкционированная; </text:p>
-   <text:p text:style-name="Standard">- идентификатор (код или фамилия) субъекта, предъявленный при попытке </text:p>
-   <text:p text:style-name="Standard">доступа; </text:p>
-   <text:p text:style-name="Standard">Подсистема обеспечения целостности: </text:p>
-   <text:p text:style-name="Standard">Целостность программных средств СЗИ НСД достигается за счет </text:p>
-   <text:p text:style-name="Standard">подключения файловой системы /usr в режиме &quot;только для чтения&quot; </text:p>
-   <text:p text:style-name="Standard">командой mount /dev/{device}/ /home/{directory} </text:p>
-   <text:p text:style-name="Standard">Целостность обрабатываемой информации обеспечивается </text:p>
-   <text:p text:style-name="Standard">с помощью исключения взаимодействия пользователя-собеседника </text:p>
-   <text:p text:style-name="Standard">непосредственно с операционной системой в обход программного </text:p>
-   <text:p text:style-name="Standard">обеспечения посредством визуального интерфейса. </text:p>
-   <text:p text:style-name="Standard">Неизменность программной среды при работе пользователя-собеседника </text:p>
-   <text:p text:style-name="Standard">обеспечивается настройкой прав доступа на каталоги программы и ее модулей </text:p>
-   <text:p text:style-name="Standard">средствами Linux командой chmod -X {directory}/. </text:p>
-   <text:p text:style-name="Standard">При этом: </text:p>
-   <text:p text:style-name="Standard">- целостность СЗИ НСД проверяется при загрузке системы по контрольным </text:p>
-   <text:p text:style-name="Standard">хэшам компонент СЗИ запуском скрипта rc.local. Используются хэши </text:p>
-   <text:p text:style-name="Standard">sha256. Хэши компонент хранятся в файловой системе /var/hashes, </text:p>
-   <text:p text:style-name="Standard">которая отключается из системы после проверки. Т.о. злоумышленник </text:p>
-   <text:p text:style-name="Standard">не может подменить или рассчитать коллизии хэшей. </text:p>
-   <text:p text:style-name="Standard">- целостность программной среды обеспечивается использованием </text:p>
-   <text:p text:style-name="Standard">трансляторов с языков высокого уровня и отсутствием средств модификации </text:p>
-   <text:p text:style-name="Standard">объектного кода программ в процессе обработки и (или) хранения </text:p>
-   <text:p text:style-name="Standard">защищаемой информации; </text:p>
-   <text:p text:style-name="Standard">- физическая охрана СВТ робота, предусматривающая контроль доступа к ним </text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>посторонних лиц, осуществляется самим роботом, так как он оборудован руками и клешнями, </text:p>
-   <text:p text:style-name="Standard">и может произвести самозащиту в случае опасности; </text:p>
-   <text:p text:style-name="Standard">- периодическое тестирование функций СЗИ НСД при </text:p>
-   <text:p text:style-name="Standard">изменении программной среды и персонала АС с помощью тест - программ, </text:p>
-   <text:p text:style-name="Standard">имитирующих попытки НСД производится; </text:p>
-   <text:p text:style-name="Standard">- имеются средства восстановления СЗИ НСД, предусматривающие ведение </text:p>
-   <text:p text:style-name="Standard">двух копий программных средств СЗИ НСД и их периодическое обновление и контроль работоспособности. Резервное копирование выполняется с помощью планировщика задач cron и скриптов на языке shell. </text:p>
+   <text:p text:style-name="Standard">Разработка аппаратного и программного обеспечения системы управления исполнительными механизмами андроидного робота
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Предполагается:
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">а) разработка схемотехнических решений
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">б) разработка ПО микроконтроллера
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">в) разработка ПО бортовой ЭВМ робота.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Функции:
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">а) управление движением со стабилизацией по курсу, траектории, скорости.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">б) управление питанием бортового оборудования с контролем целостности цепей питания и управления
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">в) управление «жестикуляцией» робота.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Собранное шасси «робота-референта» (на базе Промобота). Возможность управления им с ПК, пульта.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">1 Определения и сокращения</text:h><text:p text:style-name="Standard">ИМ - исполнительные механизмы
+</text:p><text:p text:style-name="Standard">БИНС - бесплатформенная инерциальная навигационная система
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">2 Введение</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">В наши дни тема взаимодействия робота и человека становится все более актуальной. Многие предприятия и заводы едва ли можно представить без использования робототехники. В настоящее время робототехника завоевывает все большие отрасли промышленности и все плотнее внедряется в различные сферы человеческой жизни. И если раньше роботы могли исполнять некоторые функции человека, заменяя его на заводах, где часто требуются однообразные действия при конвейерном производстве, при производстве разнообразных механизмов, то теперь наступили времена, когда роботы способны выполнять всё более сложные задачи. Развивается наука, развивается и техника, следуя за прогрессом.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Также в настоящее время роботы активно внедряются в образовательную и выставочную деятельность. Особое внимание привлекают роботы андроидного типа или антропоморфные роботы, имитирующие поведение человека. В связи с этим ставится вопрос об использовании роботов этого типа для привлечения внимания и выполнения задач их прямого назначения. Данное исследование посвящено разработке робота андроидного типа.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Важной частью современного робота становится его мобильность – способность к перемещению для выполнения необходимых манипуляций. Самые распространённые варианты шасси для наземных роботов – колесные, гусеничные и шагающие. Колесные шасси проще остальных по конструкции, но предназначены в основном для ровной поверхности, гусеничные сложнее в производстве, но имеют большее сцепление и легче проходят на пересеченной местности.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">...
+</text:p><text:p text:style-name="Standard">Подвижный робот имеет в своем составе две видеокамеры. С помощью сети Wi-Fi робот может взаимодействовать с другими устройствами и роботами. Взаимодействие робота с компьютером оператора предоставляет ему дополнительные вычислительные ресурсы, базы данных и соединение с Интернетом.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">...
+</text:p><text:p text:style-name="Standard">Разработка новых интеллектуальных систем управления робототехническими системами является сегодня актуальной задачей. Одним из основных вопросов, возникающих при ее решении, является умение сочетать концепции, плодотворность которых прошла проверку временем, с новейшими методами программной и аппаратной реализации математических моделей.
+</text:p><text:p text:style-name="Standard">В статье предлагается описание проекта по созданию интеллектуальной системы управления роботизированным объектом (робот-промоутер), которая обладает рядом преимуществ, при этом не имеет существенных ограничений по области применения.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">...
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Актуальность
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Научная новизна
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Практическая значимость
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Цель
+</text:p><text:p text:style-name="Standard">Разработка аппаратного и программного обеспечения системы управления исполнительными механизмами андроидного робота
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Задачи
+</text:p><text:p text:style-name="Standard">- исследование предметной области;
+</text:p><text:p text:style-name="Standard">- разработка схемотехнических решений;
+</text:p><text:p text:style-name="Standard">- разработка ПО микроконтроллера;
+</text:p><text:p text:style-name="Standard">- разработка ПО бортовой ЭВМ робота;
+</text:p><text:p text:style-name="Standard">- разработка системы управления движением со стабилизацией по курсу, траектории, скорости;
+</text:p><text:p text:style-name="Standard">- разработка системы управления «жестикуляцией» робота.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">=Исследовательская часть=
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">// тут НИР
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">3 Исследование существующих подходов к управлению ИМ робота</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Проектирование и разработка андроидных роботов широко практикуется в настоящее время. Обратимся к литературе на данную тематику.
+</text:p><text:p text:style-name="Standard">В статье /КХ/ представлена разработка аппаратно-программного комплекса для управления робототехнической платформой и программно- алгоритмического обеспечения для автономного движения и бесконтактного управления робототехнической платформой.
+</text:p><text:p text:style-name="Standard">В ходе тестирования представленной в этой статье платформы была решена задача обработки данных с камеры Kinect и распознавания жестов оператора, отлажена передача данных на микроконтроллер Arduino Mega2560, разработана программа управления по передвижению робототехнической платформы в необходимых направлениях, апробированы модули ввода данных с датчиков.
+</text:p><text:p text:style-name="Standard">Экспериментально подтверждено, что робототехническая платформа выполняет движения в необходимых направлениях с учетом локальных препятствий в режиме реального времени, на основе данных, получаемых с датчиков.
+</text:p><text:p text:style-name="Standard">В статье /МСЛ/ описано создание кисти-манипулятора для андроидного робота. В робототехнике широкое распространение получили клешни для захвата различных предметов. Клешня состоит из двух направляющих, при сближении которых и происходит удержание предмета. Движения направляющих происходит с помощью сервоприводов.
+</text:p><text:p text:style-name="Standard">На сегодняшний день большое распространение получили роботы-андроиды. Но практическое применение может иметь и рука (кисть руки) робота отдельно - в качестве протеза для инвалидов. Кисть используют в медицинской технике, в частности области медицинских средств реабилитации двигательного аппарата человека. Цель - повышение степени приспосабливания при захвате предметов. Пальца кисти андроида могут быть использованы для жестикуляции в развлекательных целях и для рекламы.
+</text:p><text:p text:style-name="Standard">В статье /ККЮ/ рассмотрены перспективы развития мобильных робототехнических комплексов. Автор описывает что в настоящее время в мире наблюдается широкое распространение роботизированных систем и робототехники в целом. Во многих странах, в том числе и в Казахстане, робототехника является уже отдельной дисциплиной изучаемой в учебных заведениях, и не только в профильных вузах, но и в школах, и, соот- ветственно, в педагогических вузах.
+</text:p><text:p text:style-name="Standard">Востребованность специалистов, обладающих знаниями в этой области,ежегодно растет. Это обусловлено многими объективными факторами, решающим из которых, конечно же, является бурное развитие робототехники.
+</text:p><text:p text:style-name="Standard">Сферы применения роботов и робототехники различны: образование, ме- дицина, строительство, геодезия, метеорология и т.д.
+</text:p><text:p text:style-name="Standard">Особое значение, так же занимает развитие так называемой, автономной и мобильной робототехники. В силу того, что робототехника зачастую применяется для выполнения работ в недоступных человеку местах, то именно мобильная робототехника часто является приоритетом. Однако, не только в перечисленных выше случаях требуется мобильная робототехника, определенной ветвью ее развития является автономная робототехника, подразумевающая практически полное исключение вмешательства человеческой деятельности для выполнения каких-либо задач. Иными словами, такая робототехника является наиболее перспективной и интересной в плане разработки. Для осуществления автономности, в мобильной робототехнике, все чаще применяется искусственный интеллект, а точнее его элементы. С развитием облачных технологий, стоит обратить внимание, на интеграцию и объединение различных по мощности вычислительных мощностей и сервисов искусственного интеллекта, для полномасштабной реализации полной мобилизации и автономности робототехники.
+</text:p><text:p text:style-name="Standard">В статье /ШВК/ рассмотрена еще одна интересующая нас в рамках НИР область - системы технического зрения. Применение систем технического зрения (СТЗ) позволяет выполнять обнаружение и распознавание объектов окружающей среды, производить анализ ряда их характеристик. Поэтому включение СТЗ в состав робототехнических систем стало признанной тенденцией их развития.
+</text:p><text:p text:style-name="Standard">СТЗ в составе робототехнической системы могут быть использованы для решения следую- щих задач:
+</text:p><text:p text:style-name="Standard">обнаружение объектов;
+</text:p><text:p text:style-name="Standard">определение формы объектов;
+</text:p><text:p text:style-name="Standard">распознавание и классификация объектов; выделение изображений;
+</text:p><text:p text:style-name="Standard">распознавание и классификация изображений. Указанные задачи в той или иной степени
+</text:p><text:p text:style-name="Standard">могут быть решены с использованием одной СТЗ или совокупности СТЗ, в т. ч., основанных на различных физических принципах. Для решения задачи планирования траектории движения наи- более часто применяются СТЗ, построенные по принципу восприятия отражённого от объектов сигнала (инфракрасного или ультразвукового спектра), т. е., СТЗ радарного типа, сканирующие окружающее пространство. Для распознавания изображений необходимы СТЗ, позволяющие получить растровое представление сцены.
+</text:p><text:p text:style-name="Standard">Применение таких СТЗ как видеокамеры, при соответствующей обработке данных позволяет решить как задачу планирования траектории, так и задачу распознавания, однако обработка растровых изображений требует больших вычислительных ресурсов и применения мощных вычис- лителей или специализированных сигнальных процессоров. Одной из основных проблем обработки и анализа изображений является неопределённость и неоднозначность их характеристик в связи с непостоянством освещённости, изменением цветовых характеристик и расположения объектов на фоне; кроме того, в ряде случаев применение аналитических методов обработки изображений во встраиваемых системах затруд- нено или невозможно по причине сложности используемого математического аппарата и, следовательно, ресурсоёмкости этих методов, из-за чего представляет интерес применение в таких задачах методов и средств интеллектуальной обработки данных (в частности, аппарата нечётких вычислений), эффективно решающих эти задачи при существенных ограничениях на вычислительные ресурсы. Отметим, что методы нечёткой обработки позволяют оперировать такими есте- ственными параметрами описания изображений, как яркость, однородность, близость участков и др., а также обладают простотой модификации, предсказуемостью и объяснимостью поведения.
+</text:p><text:p text:style-name="Standard">Обобщенная структура использования средств нечётких вычислений в задачах обработки изо- бражения показана на рис. 1.
+</text:p><text:p text:style-name="Standard">Существующие СТЗ коммерческого назначения и средства их разработки являются закрытыми и непригодными для исследований принципов построения СТЗ, создания новых методов и ал- горитмов их функционирования. Таким образом, актуальна задача разработки открытых средств проектирования встраиваемых СТЗ, позволяю- щих выполнять научные исследования и проводить подготовку специалистов в области автоматики и вычислительной техники.
+</text:p><text:p text:style-name="Standard">В свою очередь, в статье /СЗ/ рассмотрена система управления движением автономной колесной платформы. В статье описан состав аппаратной и программной частей платформы и даны основные принципы проектирования таких устройств. Рассмотрим состав системы управления движением платформы подробнее: выбор направления движения аппарата осуществляет связка из нейронной сети (определяющей, в каком направлении находится маркер, обозначающий конечную точку маршрута) и системы нечеткой логики, выбирающей направление движения аппарата на основе данных нейронной сети и датчиков расстояния до препятствий. Выбранное направление движения преобразуется в команды и передается в систему управления движением. Система включает в себя микроконтроллер ArduinoDuemilanove на основе ATMega 328. Для управления работой двигателей предназначен силовой модуль расширения Ardumoto L298P MotorDriverShield. На модуле расширения для дополнительного прототипирования установлен модуль датчиков, оборудованный магнетометром и акселерометром. Кроме того, именно к этому модулю подключены ультразвуковые датчики расстояния, оценивающие расстояние до препятствий перед платформой слева и справа по направлению движения. По центру платформы в передней части расположен инфракрасный датчик препятствий, выдающий сигнал в случае, если препятствие находится прямо перед платформой на расстоянии 800 мм и менее.
+</text:p><text:p text:style-name="Standard">Программное обеспечение микроконтроллера.
+</text:p><text:p text:style-name="Standard">Движением аппарата управляет микроконтроллер, микропрограмма которого включает в себя блок инициализации, в котором производится настройка датчиков, а также основной цикл, в котором последовательно производится опрос датчиков аппарата, определение возможности движения в данный момент, остановка движения в случае наличия препятствия в непосредственной близости, передача телеметрической информации в бортовой компьютер, а также
+</text:p><text:p text:style-name="Standard">прием и анализ команд, поступивших от бортового компьютера.
+</text:p><text:p text:style-name="Standard">Одним из важнейших требований к программному обеспечению микроконтроллера являлась высокая надежность работы и устойчивость к возникновению прерываний и сбоев в канале передаче данных между бортовым компьютером и микроконтроллером. Исходя из этих требований, для реализации программного обеспечения микроконтроллера была выбрана концепция автоматного программирования. Часть программного кода, ответственная за командноинформационный обмен с бортовым компьютером, представляет собой конечный частично определенный детерминированный автомат-распознаватель. Автомат содержит 13 состояний и 26 переходов между ними. Прием числовых данных реализован отдельной процедурой, причем возникновение ошибки в ходе приема информации немедленно переводит автомат в исходное состояние, что обеспечивает высокую устойчивость системы к ошибкам и сбоям. Программное обеспечение на стороне бортового компьютера, принимающее телеметрические данные от микроконтроллера, реализовано по такому же принципу. Таким образом, сбой работы микроконтроллера так же не приводит к прекращению обменом информацией между бортовым компьютером и управляющим микроконтроллером или зависанию программы. Для возобновления нормального функционирования системы достаточно перезагрузить микроконтроллер либо бортовой компьютер, других специальных шагов предпринимать не требуется.
+</text:p><text:p text:style-name="Standard">Выводы. Описанная выше система является частью мобильной платформы и была использована для обучения студентов по дисциплинам «Основы обработки изображений», «Нейронные сети» и «Нечеткая логика». Использование показало высокую эффективность предложенной системы, отсутствие сбоев во время работы и заинтересованность студентов в процессе обучения. В дальнейшем предполагается участие студентов в разработке программного обеспечения микроконтроллера, также возможна интеграция в состав системы управления, основанной на ROS (RoboticOperatingSystem).
+</text:p><text:p text:style-name="Standard">Данная система может быть использована для проведения исследований и опытно-конструкторских работ в области робототехники, разработки автономных исследовательских систем и систем автоматического управления, а также для проведения практических занятий со студентами, бакалаврами и магистрантами соответствующих направлений.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">...
+</text:p><text:p text:style-name="Standard">Конечный автомат. Несмотря на стремительное развитие информационных технологий, надежные традиционные методы и инструменты прикладного программирования не теряют свою актуальность.
+</text:p><text:p text:style-name="Standard">Одним из таких инструментов является основной программный компонент системы, разработанной в рамках данного проекта – конечный автомат (КА). Область применения КА включает в себя все сферы информационного пространства – от систем синтаксического анализа до больших интеллектуальных систем управления промышленным оборудованием и роботизированными объектами.
+</text:p><text:p text:style-name="Standard">В данном проекте КА представляет собой поведение объекта в зависимости от той или иной ситуации (состояния).
+</text:p><text:p text:style-name="Standard">Схема конечного автомата (рис. 2) представляет собой совокупность возможных действий робота с описанием того или иного состояния.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">// вставить рисунок
+</text:p><text:p text:style-name="Standard">Рисунок 2
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">4 Исследование шасси "Промобота"</text:h><text:p text:style-name="Standard">В основе робота было использовано уже имеющееся шасси, представляющее из себя набор исполнительных механизмов и датчиков перечень которых приведен в таблице /таблица промобот/
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">/таблица промобот/
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">№ п/п ; Наименование прибора 		; Назначение прибора ; Характеристики ;
+</text:p><text:p text:style-name="Standard">1	  ; Привод правого колеса 		; Перемещение робота ; 12V 10A	DC 1шт.;
+</text:p><text:p text:style-name="Standard">2	  ; Привод левого колеса 		; Перемещение робота ; 12V 10A	DC 1шт.;
+</text:p><text:p text:style-name="Standard">3	  ; Привод правой руки	 		; "Жестикуляция" робота ; 12V 10A	DC 1шт.;
+</text:p><text:p text:style-name="Standard">4	  ; Привод левой руки	 		; "Жестикуляция" робота ; 12V 10A	DC 1шт.;
+</text:p><text:p text:style-name="Standard">5	  ; Привод поворота головы 		; "Жестикуляция" робота ; Серво 5V 2А PWM 1шт.;
+</text:p><text:p text:style-name="Standard">6 	  ; Ультразвуковые датчики расстояния ; Обнаружение препятствий ; 10 - 200см 8шт.;
+</text:p><text:p text:style-name="Standard">7 	  ; Инфракрасные датчики расстояния ; Обнаружение препятствий ; неисправны 6шт.;
+</text:p><text:p text:style-name="Standard">8 	  ; Модуль датчика напряжения питания ; Контроль напряжения бортовой сети ; Аналоговый;
+</text:p><text:p text:style-name="Standard">9 	  ; Аккустический усилитель ; Усиление аудио частот ; Аналоговый;
+</text:p><text:p text:style-name="Standard">10 	  ; Динамики ; Воспроизведение звука ; 4 Ом;
+</text:p><text:p text:style-name="Standard">11 	  ; WiFi-адаптер ; Связь с интернетом ; 2.4Ггц;
+</text:p><text:p text:style-name="Standard">12 	  ; Arduino Uno R3 ; Управление ИМ ; Atmega 328 P;
+</text:p><text:p text:style-name="Standard">13 	  ; Драйверы управления двигателями постоянного тока; Управление двигателями ; 12V, 20А, 2-канальный, цифровое управление, 2шт.;
+</text:p><text:p text:style-name="Standard">14 	  ; Материнская плата ; Организация вычислительного процесса ; Core i7, SSD;
+</text:p><text:p text:style-name="Standard">15 	  ; LED-матрица ; "глаза" робота ; RGB, 5V, цифровое управление;
+</text:p><text:p text:style-name="Standard">16 	  ; Блок питания ; Питание ; 12V 20А;
+</text:p><text:p text:style-name="Standard">17 	  ; Камера ; Обнаружение человека ; Веб, 640x480;
+</text:p><text:p text:style-name="Standard">18	  ; Концевые выключатели рук ; Определение границ перемещения рук ; 2 контакта;
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Рассмотрим подробнее вышеприведенную таблицу. Все устройства работают под управлением бортовой ЭВМ (строки 14, 16). Взаимодействие компьютера и ИМ осуществляется посредством микроконтроллера Arduino (строка 12). Управление двигателями (строки 1-4) происходит посредством драйверов управления двигателями (строка 13), и инерфейсов связи между ними. Для связи с сетью используется WiFi адаптер(строка 11). Звуки воспроизводятся по команде с ЭВМ с помощью динамиков и усилителя (строки 9, 10). Для ориентации в пространстве используются датчики расстояния (строки 6, 7). Для контроля напряжения бортовой сети используется вольтметр (строка 8). Для имитирования эмоций используются LED-матрицы (строка 15). Для определения границ перемещения рук используются концевые выключатели (строка 18). Для обнаружения людей используется веб-камера (строка 17). И наконец, для поворота головы используется серво-мотор (строка 5).
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Требования к шасси робота сформулированы в таблице /таблица требования/.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Для удовлетворения требований, предъявляемых к роботу, в конструкции отсутствуют следующие элементы:
+</text:p><text:p text:style-name="Standard">1. БИНС. Необходима для стабилизации курса робота.
+</text:p><text:p text:style-name="Standard">2. Серво-привод наклона головы. Нужен для расширения возможностей эмоционального взаимодействия с человеком.
+</text:p><text:p text:style-name="Standard">3. Серво-приводы кистей рук. Также необходимы для расширения возможностей эмоционального взаимодействия с человеком.
+</text:p><text:p text:style-name="Standard">4. Дисплей. Служит также для расширения возможностей эмоционального взаимодействия с человеком.
+</text:p><text:p text:style-name="Standard">5. Датчики расстояния. Должны быть заменены для соответствия заявленным требованиям по ориентированию робота.
+</text:p><text:p text:style-name="Standard">6. Реле. Должны быть использованы для корректного управления цепями нагрузки.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Анализ требований показывает, что имеющиееся аппаратное обеспечение нуждается в доработке. Для выполнения реинжинирига робота необходимо произвести анализ доступных на рынке модулей и компонентов, которые могут быть использованы для сборки робота.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">/таблица требования/ 
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">5 Исследование существующего аппаратного обеспечения</text:h><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">6 Обзор достоинств и недостатков существующих решений</text:h><text:h text:style-name="Heading_20_1" text:outline-level="1">7 Конструкторская часть</text:h><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_2" text:outline-level="2">7.1 Проектирование схемотехнических решений</text:h><text:p text:style-name="Standard">//TODO: стырить у Оли!
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_2" text:outline-level="2">7.2 Проектирование ПО микроконтроллера</text:h><text:p text:style-name="Standard">//TODO: стырить Оле у меня!
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Алгоритмы работы.
+</text:p><text:p text:style-name="Standard">// TODO: вставить алгоритмы
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">8 Автомат рук</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Если автомат в момент 0 находится в состоянии "инициализация", а входное воздействие равно "0", то следующее состояние будет равно "инициально опустить руки".При пребывании автомата в состоянии "инициально опустить руки" в момент времени 1 имея на входе воздействие "нажат к.в.", автомат сменит состояние на "остановка".При пребывании автомата в состоянии "начать движ. вниз" в момент времени 2 имея на входе воздействие "время > 10 сек", автомат сменит состояние на "ошибка".При пребывании автомата в состоянии "начать движ. вниз" в момент времени 3 имея на входе воздействие "к.в. отпущен", автомат сменит состояние на "продолжить опускать руки".В момент времени 4 автомат перешел в состояние "продолжить опускать руки", и входное воздействие равно "время > 10 сек", то он перейдет в состояние "ошибка".
+</text:p><text:p text:style-name="Standard">Если в момент времени 5 автомат находится в состоянии "продолжить опускать руки" при входном воздействии "к.в. нажат", то он перейдёт в состояние "остановка".В момент времени 6 робот находится в состоянии "начать движ. вверх", и при входном воздействии "время > 10 сек", он переходит в состояние "ошибка".В момент времени 7 робот находится в состоянии "начать движ. вверх", и при входном воздействии "к.в. отпущен", он переходит в состояние "продолжить поднимать руки".Если в момент времени 8 автомат находится в состоянии "продолжить поднимать руки" при входном воздействии "время > 10 сек", то он перейдёт в состояние "ошибка".В момент времени 9 автомат перешел в состояние "продолжить поднимать руки", и входное воздействие равно "к.в. нажат", то он перейдет в состояние "остановка".
+</text:p><text:p text:style-name="Standard">В момент 10 автомат пребывает в состоянии "остановка", и, получив воздействие "0", он перейдет в состояние "ожидание".При пребывании автомата в состоянии "ожидание" в момент времени 11 имея на входе воздействие "принята команда вниз", автомат сменит состояние на "начать движ. вниз".Если автомат в момент 12 находится в состоянии "ожидание", а входное воздействие равно "принята команда вверх", то следующее состояние будет равно "начать движ. вверх".
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">9 Автомат_Голова</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Если автомат в момент 0 находится в состоянии "инициализация", а входное воздействие равно "0", то следующее состояние будет равно "установка в начальное положение".Если в момент времени 1 автомат находится в состоянии "установка в начальное положение" при входном воздействии "требуемый угол достигнут", то он перейдёт в состояние "начальное положение установлено".При пребывании автомата в состоянии "начальное положение установлено" в момент времени 2 имея на входе воздействие "угол &lt; требуемый", автомат сменит состояние на "поворот на Х градусов в горизонтальной плоскости".Если в момент времени 3 автомат находится в состоянии "начальное положение установлено" при входном воздействии "угол &lt; требуемый", то он перейдёт в состояние "поворот на Х градусов в вертикальной плоскости".
+</text:p><text:p text:style-name="Standard">В момент времени 4 робот находится в состоянии "поворот на Х градусов в горизонтальной плоскости", и при входном воздействии "требуемый угол достигнут", он переходит в состояние "поворот завершен".Если в момент времени 5 автомат находится в состоянии "поворот на Х градусов в вертикальной плоскости" при входном воздействии "требуемый угол достигнут", то он перейдёт в состояние "поворот завершен".При пребывании автомата в состоянии "поворот на Х градусов в вертикальной плоскости" в момент времени 6 имея на входе воздействие "требуемый угол достигнут", автомат сменит состояние на "поворот завершен".Если в момент времени 7 автомат находится в состоянии "поворот на Х градусов в вертикальной плоскости" при входном воздействии "требуемый угол достигнут", то он перейдёт в состояние "поворот завершен".
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">10 Автомат_Комп</text:h><text:p text:style-name="Standard">Если автомат в момент 0 находится в состоянии "инициализация", а входное воздействие равно "0", то следующее состояние будет равно "компьютер выключен".В момент времени 1 автомат перешел в состояние "компьютер выключен", и входное воздействие равно "0", то он перейдет в состояние "компьютер включается".В момент 2 автомат пребывает в состоянии "компьютер включается", и, получив воздействие "0", он перейдет в состояние "компьютер загружается".В момент времени 3 робот находится в состоянии "компьютер загружается", и при входном воздействии "получено подтверждающая последовательность", он переходит в состояние "компьютер загрузился".Если автомат в момент 4 находится в состоянии "компьютер загружается", а входное воздействие равно "превышено время ожидания", то следующее состояние будет равно "компьютер не загрузился".
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">11 Автомат_Лампы</text:h><text:p text:style-name="Standard">Если автомат в момент 0 находится в состоянии "инициализация", а входное воздействие равно "0", то следующее состояние будет равно "выключить все лампы".В момент 1 автомат пребывает в состоянии "выключить все лампы", и, получив воздействие "получено подтверждение включения компьютера", он перейдет в состояние "включить белые лампы".В момент времени 2 робот находится в состоянии "выключить все лампы в качестве сигнала об ошибке", и при входном воздействии "не получено подтверждение включения компьютера за 10 сек.|счетчик включений &lt; 5|счетчик времени включенных ламп &lt; Х", он переходит в состояние "включить все лампы".В момент времени 3 автомат перешел в состояние "включить все лампы", и входное воздействие равно "счетчик времени выключенных ламп &lt; Х", то он перейдет в состояние "выключить все лампы в качестве сигнала об ошибке".
+</text:p><text:p text:style-name="Standard">При пребывании автомата в состоянии "включить все лампы" в момент времени 4 имея на входе воздействие "счетчик включений > 5", автомат сменит состояние на "выключить все лампы".При пребывании автомата в состоянии "выключить все лампы" в момент времени 5 имея на входе воздействие "поехали вперед", автомат сменит состояние на "включить белые лампы".Если автомат в момент 6 находится в состоянии "выключить все лампы", а входное воздействие равно "поехали назад", то следующее состояние будет равно "включить красные лампы".При пребывании автомата в состоянии "включить белые лампы" в момент времени 7 имея на входе воздействие "остановились", автомат сменит состояние на "выключить все лампы".
+</text:p><text:p text:style-name="Standard">При пребывании автомата в состоянии "включить красные лампы" в момент времени 8 имея на входе воздействие "остановились", автомат сменит состояние на "выключить все лампы".При пребывании автомата в состоянии "выключить все лампы" в момент времени 9 имея на входе воздействие "поехали вперед направо", автомат сменит состояние на "включить белую лампу справа".При пребывании автомата в состоянии "выключить все лампы" в момент времени 10 имея на входе воздействие "поехали назад направо", автомат сменит состояние на "включить красную лампу справа".В момент 11 автомат пребывает в состоянии "выключить все лампы", и, получив воздействие "поехали вперед налево", он перейдет в состояние "включить белую лампу слева".
+</text:p><text:p text:style-name="Standard">Если автомат в момент 12 находится в состоянии "выключить все лампы", а входное воздействие равно "поехали назад налево", то следующее состояние будет равно "включить красную лампу слева".При пребывании автомата в состоянии "включить белую лампу справа" в момент времени 13 имея на входе воздействие "остановились", автомат сменит состояние на "выключить все лампы".В момент 14 автомат пребывает в состоянии "включить красную лампу справа", и, получив воздействие "остановились", он перейдет в состояние "выключить все лампы".
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_1" text:outline-level="1">12 Автомат_Обход препятствий</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Если автомат в момент 0 находится в состоянии "стоим", а входное воздействие равно "потребность", то следующее состояние будет равно "захотели ехать".Если автомат в момент 1 находится в состоянии "захотели ехать", а входное воздействие равно "нет_препятствий(прямо)", то следующее состояние будет равно "ехать прямо".В момент времени 2 робот находится в состоянии "захотели ехать", и при входном воздействии "нет препятствий справа", он переходит в состояние "ехать направо".Если автомат в момент 3 находится в состоянии "захотели ехать", а входное воздействие равно "нет препятствий слева", то следующее состояние будет равно "ехать налево".В момент 4 автомат пребывает в состоянии "ехать прямо", и, получив воздействие "нет препятствий справа", он перейдет в состояние "ехать направо".В момент 5 автомат пребывает в состоянии "ехать прямо", и, получив воздействие "нет препятствий слева", он перейдет в состояние "ехать налево".При пребывании автомата в состоянии "ехать направо" в момент времени 6 имея на входе воздействие "нет препятствий прямо", автомат сменит состояние на "ехать прямо".
+</text:p><text:p text:style-name="Standard">Если в момент времени 7 автомат находится в состоянии "ехать налево" при входном воздействии "нет препятствий прямо", то он перейдёт в состояние "ехать прямо".
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_3" text:outline-level="3">12.0.1 Обработка датчиков расстояния</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Ветка ожидание:
+</text:p><text:p text:style-name="Standard">Блок 1: проверка состояния датчика расстояния.
+</text:p><text:p text:style-name="Standard">Входы: состояние датчика
+</text:p><text:p text:style-name="Standard">Выходы: направление дальнейшей работы (ожидание, триггер, эхо).
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 2: проверка времени ожидания.
+</text:p><text:p text:style-name="Standard">Входы: время ожидания t (mс).
+</text:p><text:p text:style-name="Standard">Выходы: если t > 1000mc, то истина, иначе ложь
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 3: состояние датчика := триггер
+</text:p><text:p text:style-name="Standard">Входы: переменная состояния
+</text:p><text:p text:style-name="Standard">Выходы: состояние датчика
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Ветка триггер:
+</text:p><text:p text:style-name="Standard">Блок 4: проверка состояния триггера
+</text:p><text:p text:style-name="Standard">Входы: состояние датчика
+</text:p><text:p text:style-name="Standard">Выходы: фронт вниз; фронт вверх; ожидание;
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 5: проверка времени импульса
+</text:p><text:p text:style-name="Standard">Входы: фронт вниз
+</text:p><text:p text:style-name="Standard">Выходы: если время импульса больше 10 мс, то истина, иначе - ложь
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 6: выставить низкий уровень на выходе триггера
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние выхода триггера
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 7: состояние триггера := ожидание
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние триггера
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 8: состояние := эхо
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние датчика
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 9: выставить высокий уровень на выходе триггера
+</text:p><text:p text:style-name="Standard">Входы: фронт вверх
+</text:p><text:p text:style-name="Standard">Выходы: состояние выхода триггера
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 10: состояние триггера := фронт вниз
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние триггера
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 11: состояние триггера := фронт вверх
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние триггера
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Ветка 3:
+</text:p><text:p text:style-name="Standard">Блок 12: проверка состояния эхо
+</text:p><text:p text:style-name="Standard">Входы: состояние датчика
+</text:p><text:p text:style-name="Standard">Выходы: фронт вверх; фронт вниз; ожидание;
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 13: проверить уровень на входе эхо по фронту вверх
+</text:p><text:p text:style-name="Standard">Входы: уровень
+</text:p><text:p text:style-name="Standard">Выходы: если низкий, то истина, иначе - ложь
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 14: проверить уровень на входе эхо по фронту вниз
+</text:p><text:p text:style-name="Standard">Входы: уровень
+</text:p><text:p text:style-name="Standard">Выходы: если низкий, то истина, иначе - ложь
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 15: вычислить расстояние
+</text:p><text:p text:style-name="Standard">Входы: длительность импульса
+</text:p><text:p text:style-name="Standard">Выходы: расстояние
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 16: состояние эхо := фронт вниз
+</text:p><text:p text:style-name="Standard">Входы: состояние эхо
+</text:p><text:p text:style-name="Standard">Выходы: состояние эхо
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 17: запомнить момент прихода импульса
+</text:p><text:p text:style-name="Standard">Входы: импульс
+</text:p><text:p text:style-name="Standard">Выходы: время прихода импульса
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 18: состояние эхо := фронт вверх
+</text:p><text:p text:style-name="Standard">Входы: состояние эхо
+</text:p><text:p text:style-name="Standard">Выходы: состояние эхо
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_3" text:outline-level="3">12.0.2 Основной алгоритм программы микроконтроллера</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 1: инициализация устройств и подсистем
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние портов ввода/вывода, вектора прерываний
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 2: основной управляющий алгоритм
+</text:p><text:p text:style-name="Standard">Входы: состояние датчиков, команды о бортовой эвм
+</text:p><text:p text:style-name="Standard">Выходы: управляющее воздействие, ответы о выполнении команд
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_3" text:outline-level="3">12.0.3 Инициализция устройств</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 1:Инициализация последовательного порта
+</text:p><text:p text:style-name="Standard">Входы: - 
+</text:p><text:p text:style-name="Standard">Выходы: состояние последовательного порта (RX/TX), прерывания
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 2: Инициализация реле компьютера
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояния пинов реле
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 3: Инициализация светотехники
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние пинов реле светотехники
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 4: Инициализация шины I2C 
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: состояние шины I2C
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 5: Инициализация сети 5V
+</text:p><text:p text:style-name="Standard">Входы:
+</text:p><text:p text:style-name="Standard">Выходы: состояние пинов реле цепи 5V
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 6: Инициализация реле моторов и их включение
+</text:p><text:p text:style-name="Standard">Входы:
+</text:p><text:p text:style-name="Standard">Выходы: состояние пинов драйверов моторов
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 7: Инициализация таймеров
+</text:p><text:p text:style-name="Standard">Входы:
+</text:p><text:p text:style-name="Standard">Выходы: состояние регистров таймеров
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 8: Инициализация портов
+</text:p><text:p text:style-name="Standard">Входы:
+</text:p><text:p text:style-name="Standard">Выходы: состояние портов
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 9: Инициализация АЦП
+</text:p><text:p text:style-name="Standard">Входы:
+</text:p><text:p text:style-name="Standard">Выходы: состояние регистров АЦП
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_3" text:outline-level="3">12.0.4 Обработчик прерывания по первому таймеру</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 1: Сброс счетчика регистра прерываний
+</text:p><text:p text:style-name="Standard">Входы: Счетчик
+</text:p><text:p text:style-name="Standard">Выходы: Счетчик = 0
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 2: Обработка команд управления компьютером
+</text:p><text:p text:style-name="Standard">Входы: Команда
+</text:p><text:p text:style-name="Standard">Выходы:	Результат выполнения
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 3: Обработка команд управления светотехникой
+</text:p><text:p text:style-name="Standard">Входы: Команда
+</text:p><text:p text:style-name="Standard">Выходы:	Результат выполнения
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 4: Обработка команд управления руками
+</text:p><text:p text:style-name="Standard">Входы: Команда
+</text:p><text:p text:style-name="Standard">Выходы:	Результат выполнения
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 5: Обработка команд управления ногами
+</text:p><text:p text:style-name="Standard">Входы: Команда
+</text:p><text:p text:style-name="Standard">Выходы:	Результат выполнения
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_3" text:outline-level="3">12.0.5 Обработчик прерывания по второму таймеру</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 1: Сброс счетчика регистра прерываний
+</text:p><text:p text:style-name="Standard">Входы: Счетчик
+</text:p><text:p text:style-name="Standard">Выходы: Счетчик = 0
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 2: Счетчик импульсов датчиков расстояния += 1
+</text:p><text:p text:style-name="Standard">Входы: Счетчик
+</text:p><text:p text:style-name="Standard">Выходы: Значение счетчика, увеличенное на единицу
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 3: Обработка команд управления датчиками расстояния
+</text:p><text:p text:style-name="Standard">Входы: Команда
+</text:p><text:p text:style-name="Standard">Выходы:	Результат выполнения
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_3" text:outline-level="3">12.0.6 Инициализация гироскопа (рассчет дрейфа)</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 1: Инициализация
+</text:p><text:p text:style-name="Standard">Входы: Переменная суммы значений
+</text:p><text:p text:style-name="Standard">Выходы: Переменная суммы значений
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 2: первичное измерение вращательного ускорения по оси z
+</text:p><text:p text:style-name="Standard">Входы: переменная для хранения
+</text:p><text:p text:style-name="Standard">Выходы: измеренное значение
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 3: инициализация цикла
+</text:p><text:p text:style-name="Standard">Входы: переменная счетчик цикла
+</text:p><text:p text:style-name="Standard">Выходы:	-
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 4: задержка 0.3 сек
+</text:p><text:p text:style-name="Standard">Входы: 
+</text:p><text:p text:style-name="Standard">Выходы:
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 5: новое измерение ускорения по z
+</text:p><text:p text:style-name="Standard">Входы: переменная для хранения значения
+</text:p><text:p text:style-name="Standard">Выходы: значение
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 6: подсчет суммы измерений
+</text:p><text:p text:style-name="Standard">Входы: переменная суммы
+</text:p><text:p text:style-name="Standard">Выходы: значение суммы
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 7: конец цикла
+</text:p><text:p text:style-name="Standard">Входы: -
+</text:p><text:p text:style-name="Standard">Выходы: переменная счетчик
+</text:p><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Блок 8: подсчет дрейфа
+</text:p><text:p text:style-name="Standard">Входы: переменная для хранения значения дрейфа
+</text:p><text:p text:style-name="Standard">Выходы: значение дрейфа
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_2" text:outline-level="2">12.1 Проектирование ПО бортовой ЭВМ робота</text:h><text:p text:style-name="Standard">
+</text:p><text:p text:style-name="Standard">Генератор бреда.
+</text:p><text:p text:style-name="Standard">
+</text:p><text:h text:style-name="Heading_20_2" text:outline-level="2">12.2 Проектирование системы управления движением</text:h><text:h text:style-name="Heading_20_3" text:outline-level="3">12.2.1 Стабилизация курса</text:h><text:h text:style-name="Heading_20_3" text:outline-level="3">12.2.2 Стабилизация траектории</text:h><text:h text:style-name="Heading_20_3" text:outline-level="3">12.2.3 Стабилизация скорости</text:h><text:h text:style-name="Heading_20_2" text:outline-level="2">12.3 Проектирование системы управления «жестикуляцией» робота</text:h><text:h text:style-name="Heading_20_1" text:outline-level="1">13 Технологическая часть</text:h><text:h text:style-name="Heading_20_2" text:outline-level="2">13.1 Разработка схемотехнических решений</text:h><text:h text:style-name="Heading_20_2" text:outline-level="2">13.2 Разработка ПО микроконтроллера</text:h><text:h text:style-name="Heading_20_2" text:outline-level="2">13.3 Разработка ПО бортовой ЭВМ робота</text:h><text:h text:style-name="Heading_20_2" text:outline-level="2">13.4 Разработка системы управления движением</text:h><text:h text:style-name="Heading_20_3" text:outline-level="3">13.4.1 Стабилизация курса</text:h><text:h text:style-name="Heading_20_3" text:outline-level="3">13.4.2 Стабилизация траектории</text:h><text:h text:style-name="Heading_20_3" text:outline-level="3">13.4.3 Стабилизация скорости</text:h><text:h text:style-name="Heading_20_2" text:outline-level="2">13.5 Разработка системы управления «жестикуляцией» робота</text:h><text:h text:style-name="Heading_20_1" text:outline-level="1">14 Информационная безопасность</text:h><text:p text:style-name="Standard">Определения и сокращения
+</text:p><text:p text:style-name="Standard">АС - автоматизированные системы
+</text:p><text:p text:style-name="Standard">НСД - несанкционированный доступ
+</text:p><text:p text:style-name="Standard">РД - руководящий документ
+</text:p><text:p text:style-name="Standard">СЗИ - система защиты информации
+</text:p><text:p text:style-name="Standard">СЗИ НСД - система защиты информации от несанкционированного доступа
+</text:p><text:p text:style-name="Standard">1. Определение класса АС
+</text:p><text:p text:style-name="Standard">Определим класс нашей системы, основываясь на руководящем документе "Классификация АС и требования по защите от несанкционированного доступа к информации".
+</text:p><text:p text:style-name="Standard">Предлагаемая система предназначена для общения с людьми и привлечения внимания к Университету.
+</text:p><text:p text:style-name="Standard">Система имеет следующие возможности:
+</text:p><text:p text:style-name="Standard">передвижение в автоматическом и/или дистанционно-управляемом режимах с требуемой скоростью и точностью по заданному маршруту,
+</text:p><text:p text:style-name="Standard">имитирование человеческих эмоций
+</text:p><text:p text:style-name="Standard">реагирование на раздражители
+</text:p><text:p text:style-name="Standard">поддержание разговора - распознавать речь и отвечать на вопросы.
+</text:p><text:p text:style-name="Standard">1.1 Анализ исходных данных
+</text:p><text:p text:style-name="Standard">Таблица 1 перечень защищаемых информационных ресурсов АС и их уровень конфиденциальности
+</text:p><text:p text:style-name="Standard">1. модель распознавания речи; секретная информация
+</text:p><text:p text:style-name="Standard">2. модель синтеза речи; секретная информация
+</text:p><text:p text:style-name="Standard">3. прошивка контроллера; внутренняя информация
+</text:p><text:p text:style-name="Standard">4. настройки операционной системы; внутренняя информация
+</text:p><text:p text:style-name="Standard">5. файлы исходного кода приложения для управления исполнительными механизмами; внутренняя информация
+</text:p><text:p text:style-name="Standard">6. файлы исходного кода приложения для управления эмоциями и рефлексами; конфиденциальная информация
+</text:p><text:p text:style-name="Standard">7. база знаний; секретная информация
+</text:p><text:p text:style-name="Standard">8. база данных эмоций и рефлексов; секретная информация
+</text:p><text:p text:style-name="Standard">9. база данных голосвых записей для воспроизведения речи; конфиденциальная информация
+</text:p><text:p text:style-name="Standard">10. интерфейс пользователя; открытая информация
+</text:p><text:p text:style-name="Standard">11. речевое API; открытая информация
+</text:p><text:p text:style-name="Standard">Таблица 2 перечень лиц, имеющих доступ к штатным средствам АС, с указанием их уровня полномочий
+</text:p><text:p text:style-name="Standard">1. Администратор; доступ к секретной информации;
+</text:p><text:p text:style-name="Standard">2. Разработчик; доступ к секретной информации;
+</text:p><text:p text:style-name="Standard">3. Тестировщик; доступ к внутренней информации;
+</text:p><text:p text:style-name="Standard">4. Пользователь-собеседник; доступ к открытой информации.
+</text:p><text:p text:style-name="Standard">Таблица 3 матрица доступа или полномочий субъектов доступа по отношению к защищаемым информационным ресурсам АС
+</text:p><text:p text:style-name="Standard">; 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10; 11
+</text:p><text:p text:style-name="Standard">1. Администратор ; + ; + ; + ; + ; + ; + ; + ; + ; + ; + ; +
+</text:p><text:p text:style-name="Standard">2. Разработчик ; + ; + ; + ; + ; + ; + ; + ; + ; + ; + ; +
+</text:p><text:p text:style-name="Standard">3. Тестировщик ; - ; - ; + ; + ; + ; - ; - ; - ; - ; + ; +
+</text:p><text:p text:style-name="Standard">4. Cобеседник ; - ; - ; - ; - ; - ; - ; - ; - ; - ; + ; +
+</text:p><text:p text:style-name="Standard">Режим обработки данных в АС
+</text:p><text:p text:style-name="Standard">Работы с системой могут производиться одновременно только одним человеком, следовательно режим обработки данных является индивидуальным.
+</text:p><text:p text:style-name="Standard">1.2 выявление основных признаков АС, необходимых для классификации
+</text:p><text:p text:style-name="Standard">наличие в АС информации различного уровня конфиденциальности; +
+</text:p><text:p text:style-name="Standard">уровень полномочий субъектов доступа АС на доступ к конфиденциальной информации; +
+</text:p><text:p text:style-name="Standard">режим обработки данных в АС; индивидуальный
+</text:p><text:p text:style-name="Standard">1.3 сравнение выявленных признаков АС с классифицируемыми
+</text:p><text:p text:style-name="Standard">Устанавливается девять классов защищенности АС от НСД к информации.
+</text:p><text:p text:style-name="Standard">Каждый класс характеризуется определенной минимальной
+</text:p><text:p text:style-name="Standard">совокупностью требований по защите.
+</text:p><text:p text:style-name="Standard">Классы подразделяются на три группы, отличающиеся особенностями
+</text:p><text:p text:style-name="Standard">обработки информации в АС.
+</text:p><text:p text:style-name="Standard">В пределах каждой группы соблюдается иерархия требований по защите в
+</text:p><text:p text:style-name="Standard">зависимости от ценности (конфиденциальности) информации и,
+</text:p><text:p text:style-name="Standard">следовательно, иерархия классов защищенности АС.
+</text:p><text:p text:style-name="Standard">Третья группа включает АС, в которых работает один пользователь,
+</text:p><text:p text:style-name="Standard">допущенный ко всей информации АС, размещенной на носителях одного
+</text:p><text:p text:style-name="Standard">уровня конфиденциальности. Группа содержит два класса - 3Б и 3А.
+</text:p><text:p text:style-name="Standard">Вторая группа включает АС, в которых пользователи имеют одинаковые
+</text:p><text:p text:style-name="Standard">права доступа (полномочия) ко всей информации АС, обрабатываемой и
+</text:p><text:p text:style-name="Standard">(или) хранимой на носителях различного уровня конфиденциальности.
+</text:p><text:p text:style-name="Standard">Группа содержит два класса - 2Б и 2А.
+</text:p><text:p text:style-name="Standard">Первая группа включает многопользовательские АС, в которых
+</text:p><text:p text:style-name="Standard">одновременно обрабатывается и (или) хранится информация разных уровней
+</text:p><text:p text:style-name="Standard">конфиденциальности. Не все пользователи имеют право доступа ко всей
+</text:p><text:p text:style-name="Standard">информации АС. Группа содержит пять классов - 1Д, 1Г, 1В, 1Б и 1А.
+</text:p><text:p text:style-name="Standard">1.4 присвоение АС соответствующего класса защиты информации от НСД
+</text:p><text:p text:style-name="Standard">На основе анализа исходных данных, можно сделать вывод, что разрабатываемая система относится к первой группе АС, и классу защищенноcти 1Д.
+</text:p><text:p text:style-name="Standard">1.5 Требования к подсистемам класса защищенности 1Д
+</text:p><text:p text:style-name="Standard">В общем случае, комплекс программно-технических средств и
+</text:p><text:p text:style-name="Standard">организационных (процедурных) решений по защите информации от НСД
+</text:p><text:p text:style-name="Standard">реализуется в рамках системы защиты информации от НСД (СЗИ НСД),
+</text:p><text:p text:style-name="Standard">условно состоящей из следующих четырех подсистем:
+</text:p><text:p text:style-name="Standard">- управления доступом;
+</text:p><text:p text:style-name="Standard">- регистрации и учета;
+</text:p><text:p text:style-name="Standard">- криптографической;
+</text:p><text:p text:style-name="Standard">- обеспечения целостности.
+</text:p><text:p text:style-name="Standard">Технические характеристики робота:
+</text:p><text:p text:style-name="Standard">- Микроконтроллер (Arduino 2560)
+</text:p><text:p text:style-name="Standard">- Платы расширения (модули реле, Н-моста, БИНС, серво-приводы, электродвигатели, провода, ультразвуковые датчики расстояния, камеры, и т.д.)
+</text:p><text:p text:style-name="Standard">- Бортовая ЭВМ, ОС - Debian 8
+</text:p><text:p text:style-name="Standard">Требования к классу защищенности 1Д:
+</text:p><text:p text:style-name="Standard">Подсистема управления доступом:
+</text:p><text:p text:style-name="Standard">Идентификация и проверка подлинности таких субъектов как: администратор
+</text:p><text:p text:style-name="Standard">ктото еще осуществляется средствами операционной систмы. Доступ возможен
+</text:p><text:p text:style-name="Standard">а) через ssh по сети
+</text:p><text:p text:style-name="Standard">Ssh - сетевой протокол прикладного уровня, позволяющий производить удалённое управление операционной системой и туннелирование TCP-соединений (например, для передачи файлов). Схож по функциональности с протоколами Telnet и rlogin, но, в отличие от них, шифрует весь трафик, включая и передаваемые пароли. SSH допускает выбор различных алгоритмов шифрования. SSH-клиенты и SSH-серверы доступны для большинства сетевых операционных систем.
+</text:p><text:p text:style-name="Standard">б) локально, через gdm
+</text:p><text:p text:style-name="Standard">Gdm - графический дисплейный менеджер для X Window System. Эта программа регистрирует пользователей в операционной системе, предлагая им ввести их логин и пароль. GDM также позволяет выбирать графическую среду (сеанс) и локаль (набор языковых и региональных настроек).Экран приветствия GDM может иметь разный вид в зависимости от применённой к нему темы.
+</text:p><text:p text:style-name="Standard">Идентификация и проверка подлинности пользователей-собеседников осущестляется
+</text:p><text:p text:style-name="Standard">визуально при помощи системы распознавания лиц и голоса.
+</text:p><text:p text:style-name="Standard">Подсистема регистрации и учета:
+</text:p><text:p text:style-name="Standard">Регистрация факта входа всех пользователей, кроме собеседников осущестляется средствами
+</text:p><text:p text:style-name="Standard">ОС в файле /var/log/auth.log, а остальных - в журналах программы.
+</text:p><text:p text:style-name="Standard">Регистрация выхода из системы или останова не проводится в моменты аппаратурного отключения
+</text:p><text:p text:style-name="Standard">АС. В параметрах регистрации указываются:
+</text:p><text:p text:style-name="Standard">- дата и время входа (выхода) субъекта доступа в систему (из системы) или
+</text:p><text:p text:style-name="Standard">загрузки (останова) системы;
+</text:p><text:p text:style-name="Standard">- результат попытки входа: успешная или неуспешная -
+</text:p><text:p text:style-name="Standard">несанкционированная;
+</text:p><text:p text:style-name="Standard">- идентификатор (код или фамилия) субъекта, предъявленный при попытке
+</text:p><text:p text:style-name="Standard">доступа;
+</text:p><text:p text:style-name="Standard">Подсистема обеспечения целостности:
+</text:p><text:p text:style-name="Standard">Целостность программных средств СЗИ НСД достигается за счет
+</text:p><text:p text:style-name="Standard">подключения файловой системы /usr в режиме "только для чтения"
+</text:p><text:p text:style-name="Standard">командой mount /dev/{device}/ /home/{directory}
+</text:p><text:p text:style-name="Standard">Целостность обрабатываемой информации обеспечивается
+</text:p><text:p text:style-name="Standard">с помощью исключения взаимодействия пользователя-собеседника
+</text:p><text:p text:style-name="Standard">непосредственно с операционной системой в обход программного
+</text:p><text:p text:style-name="Standard">обеспечения посредством визуального интерфейса.
+</text:p><text:p text:style-name="Standard">Неизменность программной среды при работе пользователя-собеседника
+</text:p><text:p text:style-name="Standard">обеспечивается настройкой прав доступа на каталоги программы и ее модулей
+</text:p><text:p text:style-name="Standard">средствами Linux командой chmod -X {directory}/.
+</text:p><text:p text:style-name="Standard">При этом:
+</text:p><text:p text:style-name="Standard">- целостность СЗИ НСД проверяется при загрузке системы по контрольным
+</text:p><text:p text:style-name="Standard">хэшам компонент СЗИ запуском скрипта rc.local. Используются хэши
+</text:p><text:p text:style-name="Standard">sha256. Хэши компонент хранятся в файловой системе /var/hashes,
+</text:p><text:p text:style-name="Standard">которая отключается из системы после проверки. Т.о. злоумышленник
+</text:p><text:p text:style-name="Standard">не может подменить или рассчитать коллизии хэшей.
+</text:p><text:p text:style-name="Standard">- целостность программной среды обеспечивается использованием
+</text:p><text:p text:style-name="Standard">трансляторов с языков высокого уровня и отсутствием средств модификации
+</text:p><text:p text:style-name="Standard">объектного кода программ в процессе обработки и (или) хранения
+</text:p><text:p text:style-name="Standard">защищаемой информации;
+</text:p><text:p text:style-name="Standard">- физическая охрана СВТ робота, предусматривающая контроль доступа к ним
+</text:p><text:p text:style-name="Standard">посторонних лиц, осуществляется самим роботом, так как он оборудован руками и клешнями,
+</text:p><text:p text:style-name="Standard">и может произвести самозащиту в случае опасности;
+</text:p><text:p text:style-name="Standard">- периодическое тестирование функций СЗИ НСД при
+</text:p><text:p text:style-name="Standard">изменении программной среды и персонала АС с помощью тест - программ,
+</text:p><text:p text:style-name="Standard">имитирующих попытки НСД производится;
+</text:p><text:p text:style-name="Standard">- имеются средства восстановления СЗИ НСД, предусматривающие ведение
+</text:p><text:p text:style-name="Standard">двух копий программных средств СЗИ НСД и их периодическое обновление и контроль работоспособности. Резервное копирование выполняется с помощью планировщика задач cron и скриптов на языке shell.
+</text:p>
   </office:text>
  </office:body>
 </office:document>
