@@ -1,4 +1,5 @@
 import re
+import os
 import sys
 # from PIL import Image
 
@@ -55,15 +56,18 @@ class Inserter(object):
     return h
 
   def p(self, text):
+
     self.text += self._insert(self.P, {'text' : text})
 
-  def img(self, name, url, number):
+  def img(self, name, url):
     # im = Image.open(url)
     # width, height = im.size
     # h = (height * 100) / (width * 1.5)
     h = 22
     self.img_cnt += 1
-    self.text += self._insert(self.IMG, {'name':name, 'url':url, 'number':number, 'height': str(h)})
+    abs_path = os.path.dirname(os.path.abspath(__file__))
+    img_abs_path = '%s/%s' % (abs_path, name)
+    self.text += self._insert(self.IMG, {'name':name.split('.')[0], 'number': self.img_cnt,  'url': img_abs_path, 'height': str(h)})
 
   def code(self, code = '', name = ''):
     code1 = code.replace('\n', self.ENDL).replace('\t', self.TAB)
@@ -105,7 +109,7 @@ def main():
   for x in lines:
     if '[[' in x:
       img_lnk = re.match(rimg, x).groups()[0].strip()
-
+      inserter.img(img_lnk, img_lnk)
       # print('<figure><img style="width: 100%%" src="%s" /><figcaption>%s</figcaption></figure>' % (a,a))
     elif '====' in x:
       try:
