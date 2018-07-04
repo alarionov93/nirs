@@ -15,10 +15,10 @@ templates = [
 
 def main():
 	files = []
-	for (dirpath, dirnames, filenames) in os.walk('temp/automat'):
+	for (dirpath, dirnames, filenames) in os.walk('test_automat'):
 	    files += filenames
 	for f in files:
-		lines = [ _.strip(" \n").strip(";") for _ in open('temp/automat/%s' % f).readlines() ]
+		lines = [ _.strip(" \n").strip(";") for _ in open('test_automat/%s' % f).readlines() ]
 		_tme = 0
 
 		title = f.split('.')[0]
